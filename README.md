@@ -25,16 +25,16 @@ Reduce supply chain complexity by establishing clear, data-backed boundaries for
 ## Dataset
 The breakdown of each data column 
 
-Product Identification Columns
+#Product Identification Columns
 •	sku_id (Stock Keeping Unit ID): The unique tracking code assigned to each specific product variant.
 •	product_name: The descriptive name of the individual retail item.
 •	category: The broad department group the item belongs 
 
-Financial Columns
+#Financial Columns
 •	unit_cost: The wholesale price the business paid to acquire or manufacture a single unit of that product.
 •	selling_price: The retail price the company charges customers for a single unit.
 
- Inventory & Sales Velocity Columns
+#Inventory & Sales Velocity Columns
 •	units_sold_last_12m: The total volume of units purchased by customers over the past year. This measures consumer demand.
 •	inventory_on_hand: The physical count of units currently sitting in the warehouse or store shelves. This represents the current stock level and tied-up capital.
 
