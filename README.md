@@ -42,4 +42,4 @@ Class Z (Stagnant): Dead stock with a turnover ratio below 1.5.
 The ultimate operational goal of this project is to isolate "CZ" products—items that contribute the least to annual revenue (C) and move the slowest through the warehouse (Z). Isolating this segment gives management a direct action list to prune underperforming products, slash storage overhead, and reclaim tied-up capital.
 
 ## Preview
-[Dashboard Sreenshot] ( )
+[Dashboard Sreenshot] (https://github.com/akandug/inventory-decision-engine/blob/main/sku%20dashboard.PNG )
