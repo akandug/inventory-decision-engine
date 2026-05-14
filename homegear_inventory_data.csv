@@ -1,0 +1,2001 @@
+sku_id,product_name,category,unit_cost,selling_price,units_sold_last_12m,inventory_on_hand
+SKU-10000,Bedding Item 0,Bedding,143.1,120.06,20,766
+SKU-10001,Gardening Item 1,Gardening,74.29,92.25,4919,1161
+SKU-10002,Home Decor Item 2,Home Decor,145.79,116.66,37,576
+SKU-10003,Kitchenware Item 3,Kitchenware,18.69,47.37,285,68
+SKU-10004,Furniture Item 4,Furniture,132.67,121.26,14,986
+SKU-10005,Gardening Item 5,Gardening,63.54,64.5,2,946
+SKU-10006,Home Decor Item 6,Home Decor,73.07,180.92,1600,441
+SKU-10007,Furniture Item 7,Furniture,313.23,616.66,2363,654
+SKU-10008,Bedding Item 8,Bedding,79.32,164.5,3253,761
+SKU-10009,Bedding Item 9,Bedding,53.64,179.78,155,72
+SKU-10010,Furniture Item 10,Furniture,642.59,610.13,35,1115
+SKU-10011,Bedding Item 11,Bedding,16.33,19.73,2337,1291
+SKU-10012,Furniture Item 12,Furniture,775.68,2103.16,286,24
+SKU-10013,Home Decor Item 13,Home Decor,20.44,18.37,23,947
+SKU-10014,Gardening Item 14,Gardening,37.84,37.57,34,1072
+SKU-10015,Furniture Item 15,Furniture,350.93,840.48,3182,232
+SKU-10016,Home Decor Item 16,Home Decor,112.14,374.77,268,56
+SKU-10017,Gardening Item 17,Gardening,116.51,377.57,191,18
+SKU-10018,Furniture Item 18,Furniture,117.79,285.89,4646,440
+SKU-10019,Bedding Item 19,Bedding,88.86,255.37,278,24
+SKU-10020,Gardening Item 20,Gardening,38.43,33.53,6,385
+SKU-10021,Bedding Item 21,Bedding,140.16,128.12,5,919
+SKU-10022,Bedding Item 22,Bedding,68.31,60.73,27,489
+SKU-10023,Kitchenware Item 23,Kitchenware,17.25,64.28,170,12
+SKU-10024,Gardening Item 24,Gardening,68.44,78.62,6779,1326
+SKU-10025,Kitchenware Item 25,Kitchenware,23.17,57.32,3489,709
+SKU-10026,Furniture Item 26,Furniture,598.59,1092.92,3999,312
+SKU-10027,Furniture Item 27,Furniture,451.88,1100.67,2759,602
+SKU-10028,Furniture Item 28,Furniture,471.65,541.65,3733,1335
+SKU-10029,Gardening Item 29,Gardening,61.75,72.47,6389,1383
+SKU-10030,Furniture Item 30,Furniture,543.47,2009.49,289,82
+SKU-10031,Bedding Item 31,Bedding,81.15,274.79,52,68
+SKU-10032,Bedding Item 32,Bedding,12.32,37.25,196,80
+SKU-10033,Bedding Item 33,Bedding,141.67,179.58,4385,1278
+SKU-10034,Bedding Item 34,Bedding,112.93,139.94,6061,762
+SKU-10035,Bedding Item 35,Bedding,34.49,36.19,1,553
+SKU-10036,Bedding Item 36,Bedding,88.16,76.68,8,958
+SKU-10037,Gardening Item 37,Gardening,129.89,159.55,3696,1086
+SKU-10038,Kitchenware Item 38,Kitchenware,12.27,11.6,19,411
+SKU-10039,Kitchenware Item 39,Kitchenware,34.86,70.19,2919,362
+SKU-10040,Home Decor Item 40,Home Decor,41.4,38.23,32,1115
+SKU-10041,Bedding Item 41,Bedding,61.31,59.12,2,332
+SKU-10042,Bedding Item 42,Bedding,81.23,232.82,71,47
+SKU-10043,Home Decor Item 43,Home Decor,78.14,78.04,26,1097
+SKU-10044,Kitchenware Item 44,Kitchenware,30.96,35.48,6548,1315
+SKU-10045,Gardening Item 45,Gardening,90.08,94.46,16,457
+SKU-10046,Home Decor Item 46,Home Decor,49.14,50.71,36,796
+SKU-10047,Home Decor Item 47,Home Decor,90.12,76.4,20,460
+SKU-10048,Gardening Item 48,Gardening,33.73,127.03,272,76
+SKU-10049,Furniture Item 49,Furniture,530.51,458.11,1,789
+SKU-10050,Furniture Item 50,Furniture,325.79,317.84,8,475
+SKU-10051,Home Decor Item 51,Home Decor,51.51,65.6,3841,1024
+SKU-10052,Bedding Item 52,Bedding,81.59,227.75,222,17
+SKU-10053,Bedding Item 53,Bedding,134.13,250.25,4425,250
+SKU-10054,Kitchenware Item 54,Kitchenware,11.98,11.35,21,641
+SKU-10055,Kitchenware Item 55,Kitchenware,6.68,6.22,36,352
+SKU-10056,Bedding Item 56,Bedding,40.21,151.33,245,56
+SKU-10057,Gardening Item 57,Gardening,99.24,103.45,12,405
+SKU-10058,Gardening Item 58,Gardening,121.33,151.51,5675,845
+SKU-10059,Home Decor Item 59,Home Decor,35.81,81.9,2150,257
+SKU-10060,Furniture Item 60,Furniture,209.51,238.12,2559,736
+SKU-10061,Home Decor Item 61,Home Decor,99.36,331.01,241,31
+SKU-10062,Home Decor Item 62,Home Decor,68.74,77.8,3679,585
+SKU-10063,Kitchenware Item 63,Kitchenware,20.38,37.27,4118,652
+SKU-10064,Bedding Item 64,Bedding,12.4,11.39,20,588
+SKU-10065,Home Decor Item 65,Home Decor,65.79,251.98,118,61
+SKU-10066,Furniture Item 66,Furniture,538.1,1780.61,50,13
+SKU-10067,Furniture Item 67,Furniture,118.56,438.83,268,21
+SKU-10068,Furniture Item 68,Furniture,501.36,1093.93,1956,467
+SKU-10069,Gardening Item 69,Gardening,124.86,348.82,92,22
+SKU-10070,Bedding Item 70,Bedding,24.11,53.83,3546,289
+SKU-10071,Home Decor Item 71,Home Decor,128.28,254.32,1417,395
+SKU-10072,Furniture Item 72,Furniture,587.72,1503.84,206,98
+SKU-10073,Home Decor Item 73,Home Decor,145.46,527.43,150,73
+SKU-10074,Gardening Item 74,Gardening,148.67,173.67,4143,689
+SKU-10075,Home Decor Item 75,Home Decor,43.4,157.63,72,39
+SKU-10076,Kitchenware Item 76,Kitchenware,29.04,33.81,2728,1198
+SKU-10077,Gardening Item 77,Gardening,64.49,154.32,4304,464
+SKU-10078,Bedding Item 78,Bedding,143.01,132.03,18,443
+SKU-10079,Home Decor Item 79,Home Decor,22.84,80.14,229,62
+SKU-10080,Kitchenware Item 80,Kitchenware,10.11,10.6,38,933
+SKU-10081,Home Decor Item 81,Home Decor,113.18,302.84,124,85
+SKU-10082,Kitchenware Item 82,Kitchenware,39.27,103.12,279,22
+SKU-10083,Furniture Item 83,Furniture,377.66,309.81,1,464
+SKU-10084,Gardening Item 84,Gardening,91.38,91.68,21,810
+SKU-10085,Kitchenware Item 85,Kitchenware,31.63,37.85,5486,1375
+SKU-10086,Gardening Item 86,Gardening,44.82,51.58,5522,1253
+SKU-10087,Bedding Item 87,Bedding,90.01,74.65,7,660
+SKU-10088,Kitchenware Item 88,Kitchenware,35.65,41.88,2504,868
+SKU-10089,Kitchenware Item 89,Kitchenware,44.09,55.57,2133,1184
+SKU-10090,Home Decor Item 90,Home Decor,16.04,16.82,20,528
+SKU-10091,Bedding Item 91,Bedding,87.54,73.67,17,604
+SKU-10092,Kitchenware Item 92,Kitchenware,33.24,119.85,193,84
+SKU-10093,Bedding Item 93,Bedding,144.22,305.59,1357,572
+SKU-10094,Furniture Item 94,Furniture,231.68,265.48,4745,1039
+SKU-10095,Bedding Item 95,Bedding,60.45,74.77,4508,1424
+SKU-10096,Home Decor Item 96,Home Decor,137.53,124.35,17,1008
+SKU-10097,Kitchenware Item 97,Kitchenware,23.82,19.21,4,1100
+SKU-10098,Kitchenware Item 98,Kitchenware,26.62,25.25,10,362
+SKU-10099,Kitchenware Item 99,Kitchenware,48.65,39.69,12,404
+SKU-10100,Gardening Item 100,Gardening,28.74,69.13,3870,636
+SKU-10101,Home Decor Item 101,Home Decor,111.66,96.23,18,377
+SKU-10102,Kitchenware Item 102,Kitchenware,10.81,9.21,12,748
+SKU-10103,Kitchenware Item 103,Kitchenware,39.06,73.42,3142,353
+SKU-10104,Furniture Item 104,Furniture,464.22,466.12,11,535
+SKU-10105,Home Decor Item 105,Home Decor,22.38,18.65,16,602
+SKU-10106,Home Decor Item 106,Home Decor,96.84,80.78,38,1063
+SKU-10107,Furniture Item 107,Furniture,345.41,1150.99,79,60
+SKU-10108,Furniture Item 108,Furniture,343.78,1328.95,265,39
+SKU-10109,Furniture Item 109,Furniture,703.65,643.73,3,700
+SKU-10110,Furniture Item 110,Furniture,638.24,1586.69,1068,252
+SKU-10111,Furniture Item 111,Furniture,330.13,994.45,289,32
+SKU-10112,Gardening Item 112,Gardening,29.44,104.34,153,34
+SKU-10113,Gardening Item 113,Gardening,132.4,365.24,209,60
+SKU-10114,Gardening Item 114,Gardening,125.05,141.98,6777,904
+SKU-10115,Kitchenware Item 115,Kitchenware,29.05,34.07,5117,577
+SKU-10116,Furniture Item 116,Furniture,583.28,1246.35,3296,413
+SKU-10117,Gardening Item 117,Gardening,138.92,334.5,2049,207
+SKU-10118,Kitchenware Item 118,Kitchenware,31.88,27.38,21,327
+SKU-10119,Furniture Item 119,Furniture,623.23,1179.89,2335,202
+SKU-10120,Gardening Item 120,Gardening,84.5,173.04,4577,214
+SKU-10121,Kitchenware Item 121,Kitchenware,38.18,77.34,2062,430
+SKU-10122,Furniture Item 122,Furniture,474.73,578.57,5596,1079
+SKU-10123,Furniture Item 123,Furniture,652.42,793.89,4158,969
+SKU-10124,Furniture Item 124,Furniture,490.42,1319.9,285,50
+SKU-10125,Home Decor Item 125,Home Decor,60.83,174.38,275,68
+SKU-10126,Home Decor Item 126,Home Decor,56.25,48.17,21,881
+SKU-10127,Bedding Item 127,Bedding,129.11,248.08,3397,336
+SKU-10128,Gardening Item 128,Gardening,83.43,108.42,4595,505
+SKU-10129,Furniture Item 129,Furniture,503.2,505.35,14,1180
+SKU-10130,Gardening Item 130,Gardening,124.92,117.79,10,734
+SKU-10131,Home Decor Item 131,Home Decor,117.73,270.5,2141,424
+SKU-10132,Bedding Item 132,Bedding,43.94,102.7,3137,749
+SKU-10133,Home Decor Item 133,Home Decor,80.85,75.45,12,972
+SKU-10134,Furniture Item 134,Furniture,417.99,1665.66,187,22
+SKU-10135,Furniture Item 135,Furniture,161.51,376.66,3376,749
+SKU-10136,Gardening Item 136,Gardening,58.84,60.8,13,758
+SKU-10137,Kitchenware Item 137,Kitchenware,14.23,17.76,4560,1417
+SKU-10138,Bedding Item 138,Bedding,127.86,297.31,1872,490
+SKU-10139,Home Decor Item 139,Home Decor,36.1,43.48,2077,631
+SKU-10140,Kitchenware Item 140,Kitchenware,44.47,52.94,4343,1115
+SKU-10141,Gardening Item 141,Gardening,97.37,316.86,112,34
+SKU-10142,Kitchenware Item 142,Kitchenware,45.48,50.63,3997,603
+SKU-10143,Gardening Item 143,Gardening,86.0,105.4,4626,1467
+SKU-10144,Furniture Item 144,Furniture,197.49,182.45,28,777
+SKU-10145,Gardening Item 145,Gardening,120.4,276.31,2120,610
+SKU-10146,Kitchenware Item 146,Kitchenware,6.51,21.1,59,83
+SKU-10147,Kitchenware Item 147,Kitchenware,9.63,36.31,96,97
+SKU-10148,Bedding Item 148,Bedding,65.62,60.47,4,623
+SKU-10149,Bedding Item 149,Bedding,118.06,269.87,3674,491
+SKU-10150,Furniture Item 150,Furniture,276.26,356.88,6106,1371
+SKU-10151,Furniture Item 151,Furniture,763.1,1447.89,3188,409
+SKU-10152,Kitchenware Item 152,Kitchenware,16.52,13.64,11,623
+SKU-10153,Home Decor Item 153,Home Decor,139.15,124.35,27,350
+SKU-10154,Home Decor Item 154,Home Decor,24.59,22.45,10,1113
+SKU-10155,Home Decor Item 155,Home Decor,147.88,152.35,22,1130
+SKU-10156,Gardening Item 156,Gardening,92.78,108.28,3332,935
+SKU-10157,Kitchenware Item 157,Kitchenware,5.21,6.16,2574,1101
+SKU-10158,Gardening Item 158,Gardening,139.21,173.67,2474,1028
+SKU-10159,Gardening Item 159,Gardening,14.6,13.79,23,479
+SKU-10160,Home Decor Item 160,Home Decor,138.08,159.55,6158,1165
+SKU-10161,Bedding Item 161,Bedding,39.78,156.78,130,58
+SKU-10162,Bedding Item 162,Bedding,68.05,131.27,2724,526
+SKU-10163,Kitchenware Item 163,Kitchenware,18.95,21.64,4482,1222
+SKU-10164,Home Decor Item 164,Home Decor,97.5,118.7,5495,1268
+SKU-10165,Gardening Item 165,Gardening,73.46,236.66,269,47
+SKU-10166,Gardening Item 166,Gardening,31.73,58.8,3972,657
+SKU-10167,Gardening Item 167,Gardening,100.16,113.3,2054,677
+SKU-10168,Home Decor Item 168,Home Decor,67.12,191.06,116,68
+SKU-10169,Home Decor Item 169,Home Decor,93.31,105.97,5300,1108
+SKU-10170,Bedding Item 170,Bedding,43.35,108.02,3143,487
+SKU-10171,Gardening Item 171,Gardening,144.77,130.53,20,1122
+SKU-10172,Furniture Item 172,Furniture,109.1,261.15,3198,580
+SKU-10173,Gardening Item 173,Gardening,91.63,117.48,2513,1208
+SKU-10174,Bedding Item 174,Bedding,57.02,54.03,2,695
+SKU-10175,Bedding Item 175,Bedding,97.38,121.99,5577,779
+SKU-10176,Kitchenware Item 176,Kitchenware,44.08,50.09,6223,1381
+SKU-10177,Gardening Item 177,Gardening,81.74,78.34,1,658
+SKU-10178,Kitchenware Item 178,Kitchenware,11.27,9.39,3,328
+SKU-10179,Home Decor Item 179,Home Decor,106.77,413.36,119,94
+SKU-10180,Furniture Item 180,Furniture,503.56,574.71,6683,1373
+SKU-10181,Home Decor Item 181,Home Decor,46.92,57.21,6826,767
+SKU-10182,Home Decor Item 182,Home Decor,103.11,246.08,2708,675
+SKU-10183,Furniture Item 183,Furniture,395.43,449.55,3386,1192
+SKU-10184,Bedding Item 184,Bedding,117.94,236.12,4850,711
+SKU-10185,Bedding Item 185,Bedding,110.67,142.74,3250,554
+SKU-10186,Home Decor Item 186,Home Decor,77.73,89.58,2750,1238
+SKU-10187,Bedding Item 187,Bedding,17.2,19.45,6460,700
+SKU-10188,Furniture Item 188,Furniture,431.97,538.07,4343,716
+SKU-10189,Home Decor Item 189,Home Decor,106.38,118.67,6226,607
+SKU-10190,Bedding Item 190,Bedding,145.48,298.62,3571,243
+SKU-10191,Gardening Item 191,Gardening,138.42,316.08,1329,696
+SKU-10192,Bedding Item 192,Bedding,85.87,82.41,7,380
+SKU-10193,Home Decor Item 193,Home Decor,106.92,109.68,24,567
+SKU-10194,Gardening Item 194,Gardening,148.27,144.77,31,1010
+SKU-10195,Kitchenware Item 195,Kitchenware,13.13,38.97,299,88
+SKU-10196,Home Decor Item 196,Home Decor,112.34,278.58,4911,676
+SKU-10197,Furniture Item 197,Furniture,621.55,1257.62,4042,689
+SKU-10198,Kitchenware Item 198,Kitchenware,34.26,38.51,4667,597
+SKU-10199,Gardening Item 199,Gardening,107.48,126.92,6278,538
+SKU-10200,Kitchenware Item 200,Kitchenware,29.23,100.51,190,25
+SKU-10201,Home Decor Item 201,Home Decor,96.22,114.73,2310,1045
+SKU-10202,Gardening Item 202,Gardening,132.46,516.44,209,48
+SKU-10203,Bedding Item 203,Bedding,17.38,37.11,1317,471
+SKU-10204,Bedding Item 204,Bedding,147.77,130.64,24,639
+SKU-10205,Home Decor Item 205,Home Decor,112.52,230.46,4500,523
+SKU-10206,Furniture Item 206,Furniture,263.53,642.27,1704,784
+SKU-10207,Kitchenware Item 207,Kitchenware,22.62,55.77,3234,260
+SKU-10208,Home Decor Item 208,Home Decor,22.52,28.75,3463,843
+SKU-10209,Gardening Item 209,Gardening,136.52,143.05,6,870
+SKU-10210,Bedding Item 210,Bedding,127.3,143.09,5564,606
+SKU-10211,Furniture Item 211,Furniture,368.86,865.25,3553,716
+SKU-10212,Home Decor Item 212,Home Decor,98.17,119.71,5170,1252
+SKU-10213,Home Decor Item 213,Home Decor,46.43,164.56,131,97
+SKU-10214,Gardening Item 214,Gardening,124.22,149.98,2892,828
+SKU-10215,Bedding Item 215,Bedding,91.21,189.16,2640,740
+SKU-10216,Kitchenware Item 216,Kitchenware,7.0,6.17,8,836
+SKU-10217,Home Decor Item 217,Home Decor,112.93,124.34,2974,750
+SKU-10218,Home Decor Item 218,Home Decor,16.83,47.63,86,86
+SKU-10219,Bedding Item 219,Bedding,20.66,21.09,39,617
+SKU-10220,Home Decor Item 220,Home Decor,136.91,481.52,89,86
+SKU-10221,Home Decor Item 221,Home Decor,112.75,393.23,129,68
+SKU-10222,Gardening Item 222,Gardening,32.46,40.23,4604,669
+SKU-10223,Bedding Item 223,Bedding,96.61,98.58,6,856
+SKU-10224,Furniture Item 224,Furniture,425.83,427.95,9,736
+SKU-10225,Furniture Item 225,Furniture,672.58,581.56,28,523
+SKU-10226,Home Decor Item 226,Home Decor,96.37,79.89,16,1165
+SKU-10227,Bedding Item 227,Bedding,11.27,9.81,5,754
+SKU-10228,Furniture Item 228,Furniture,402.57,385.72,27,521
+SKU-10229,Home Decor Item 229,Home Decor,24.35,24.17,31,623
+SKU-10230,Gardening Item 230,Gardening,33.29,31.48,16,1004
+SKU-10231,Furniture Item 231,Furniture,152.29,158.89,13,584
+SKU-10232,Bedding Item 232,Bedding,114.95,237.78,3428,228
+SKU-10233,Gardening Item 233,Gardening,125.01,156.77,5999,1069
+SKU-10234,Furniture Item 234,Furniture,211.26,250.39,2515,896
+SKU-10235,Kitchenware Item 235,Kitchenware,12.36,10.81,28,1099
+SKU-10236,Furniture Item 236,Furniture,640.98,740.1,5530,1348
+SKU-10237,Bedding Item 237,Bedding,14.38,14.59,15,383
+SKU-10238,Gardening Item 238,Gardening,48.39,42.59,0,826
+SKU-10239,Furniture Item 239,Furniture,249.17,573.21,1792,470
+SKU-10240,Bedding Item 240,Bedding,76.25,77.56,24,608
+SKU-10241,Gardening Item 241,Gardening,128.27,128.17,2,992
+SKU-10242,Bedding Item 242,Bedding,145.45,310.84,1526,405
+SKU-10243,Kitchenware Item 243,Kitchenware,32.33,36.86,2520,1455
+SKU-10244,Home Decor Item 244,Home Decor,47.66,49.86,10,1020
+SKU-10245,Home Decor Item 245,Home Decor,20.14,26.08,3389,665
+SKU-10246,Gardening Item 246,Gardening,107.3,110.19,37,1078
+SKU-10247,Gardening Item 247,Gardening,24.69,29.98,4936,962
+SKU-10248,Bedding Item 248,Bedding,108.35,423.83,209,11
+SKU-10249,Kitchenware Item 249,Kitchenware,8.95,10.43,2917,665
+SKU-10250,Furniture Item 250,Furniture,582.63,472.1,33,727
+SKU-10251,Kitchenware Item 251,Kitchenware,47.82,87.13,1634,272
+SKU-10252,Kitchenware Item 252,Kitchenware,36.91,36.92,27,617
+SKU-10253,Gardening Item 253,Gardening,77.82,258.46,257,67
+SKU-10254,Furniture Item 254,Furniture,436.63,1009.54,4771,211
+SKU-10255,Bedding Item 255,Bedding,32.34,33.76,18,655
+SKU-10256,Home Decor Item 256,Home Decor,35.5,32.82,31,893
+SKU-10257,Furniture Item 257,Furniture,557.28,721.66,2311,1142
+SKU-10258,Bedding Item 258,Bedding,37.94,118.65,142,88
+SKU-10259,Kitchenware Item 259,Kitchenware,42.82,98.87,2748,223
+SKU-10260,Bedding Item 260,Bedding,98.03,90.79,19,861
+SKU-10261,Kitchenware Item 261,Kitchenware,28.13,100.93,299,75
+SKU-10262,Furniture Item 262,Furniture,655.07,2219.72,292,21
+SKU-10263,Gardening Item 263,Gardening,97.22,277.42,192,35
+SKU-10264,Bedding Item 264,Bedding,137.26,282.9,1939,201
+SKU-10265,Home Decor Item 265,Home Decor,129.61,145.1,4365,880
+SKU-10266,Kitchenware Item 266,Kitchenware,34.82,72.2,4216,227
+SKU-10267,Furniture Item 267,Furniture,700.59,1640.38,2472,500
+SKU-10268,Gardening Item 268,Gardening,133.72,160.99,4639,1277
+SKU-10269,Bedding Item 269,Bedding,126.04,142.86,4360,1479
+SKU-10270,Bedding Item 270,Bedding,15.13,14.13,36,604
+SKU-10271,Kitchenware Item 271,Kitchenware,36.74,46.8,3390,1119
+SKU-10272,Gardening Item 272,Gardening,25.67,30.96,2968,519
+SKU-10273,Furniture Item 273,Furniture,127.54,245.64,1197,258
+SKU-10274,Home Decor Item 274,Home Decor,24.46,66.6,61,62
+SKU-10275,Furniture Item 275,Furniture,775.58,1743.03,1216,384
+SKU-10276,Gardening Item 276,Gardening,78.44,210.89,133,54
+SKU-10277,Bedding Item 277,Bedding,108.66,123.05,6470,840
+SKU-10278,Kitchenware Item 278,Kitchenware,37.89,91.22,2381,285
+SKU-10279,Furniture Item 279,Furniture,563.14,452.98,9,444
+SKU-10280,Furniture Item 280,Furniture,708.23,1890.75,125,98
+SKU-10281,Bedding Item 281,Bedding,104.71,129.15,5124,860
+SKU-10282,Furniture Item 282,Furniture,344.0,630.81,1703,784
+SKU-10283,Kitchenware Item 283,Kitchenware,23.31,19.18,8,458
+SKU-10284,Kitchenware Item 284,Kitchenware,9.91,29.64,151,28
+SKU-10285,Furniture Item 285,Furniture,633.6,644.51,18,940
+SKU-10286,Kitchenware Item 286,Kitchenware,19.78,61.2,299,30
+SKU-10287,Gardening Item 287,Gardening,64.4,77.87,6400,790
+SKU-10288,Bedding Item 288,Bedding,12.05,42.21,249,83
+SKU-10289,Furniture Item 289,Furniture,424.45,547.66,5865,949
+SKU-10290,Bedding Item 290,Bedding,13.59,15.35,2011,803
+SKU-10291,Home Decor Item 291,Home Decor,44.45,55.69,2042,825
+SKU-10292,Furniture Item 292,Furniture,600.84,1678.56,70,89
+SKU-10293,Home Decor Item 293,Home Decor,135.72,159.61,2714,823
+SKU-10294,Home Decor Item 294,Home Decor,77.09,164.97,2357,572
+SKU-10295,Bedding Item 295,Bedding,103.81,97.04,27,443
+SKU-10296,Furniture Item 296,Furniture,527.23,476.3,12,644
+SKU-10297,Gardening Item 297,Gardening,27.25,25.38,38,882
+SKU-10298,Kitchenware Item 298,Kitchenware,30.53,36.17,2035,1385
+SKU-10299,Kitchenware Item 299,Kitchenware,21.81,85.64,96,31
+SKU-10300,Home Decor Item 300,Home Decor,133.79,164.47,6616,1483
+SKU-10301,Furniture Item 301,Furniture,352.54,313.18,23,453
+SKU-10302,Gardening Item 302,Gardening,119.27,141.31,5683,701
+SKU-10303,Kitchenware Item 303,Kitchenware,9.3,29.16,274,78
+SKU-10304,Kitchenware Item 304,Kitchenware,38.16,31.44,20,731
+SKU-10305,Home Decor Item 305,Home Decor,99.88,345.27,209,82
+SKU-10306,Home Decor Item 306,Home Decor,93.23,107.67,2769,762
+SKU-10307,Home Decor Item 307,Home Decor,104.62,129.57,6008,1498
+SKU-10308,Bedding Item 308,Bedding,124.62,419.66,151,48
+SKU-10309,Home Decor Item 309,Home Decor,21.12,46.82,1352,272
+SKU-10310,Kitchenware Item 310,Kitchenware,15.2,18.06,2707,1327
+SKU-10311,Furniture Item 311,Furniture,568.72,1238.68,1159,429
+SKU-10312,Furniture Item 312,Furniture,576.09,672.07,6153,1337
+SKU-10313,Furniture Item 313,Furniture,795.9,3178.19,258,96
+SKU-10314,Bedding Item 314,Bedding,18.42,72.62,85,40
+SKU-10315,Kitchenware Item 315,Kitchenware,12.67,16.02,2632,511
+SKU-10316,Kitchenware Item 316,Kitchenware,18.54,19.13,2,536
+SKU-10317,Bedding Item 317,Bedding,146.38,358.48,3003,563
+SKU-10318,Kitchenware Item 318,Kitchenware,42.89,123.77,247,81
+SKU-10319,Kitchenware Item 319,Kitchenware,32.38,115.38,293,23
+SKU-10320,Bedding Item 320,Bedding,52.44,61.68,3601,1269
+SKU-10321,Gardening Item 321,Gardening,43.47,134.55,116,32
+SKU-10322,Furniture Item 322,Furniture,520.42,1914.83,212,24
+SKU-10323,Bedding Item 323,Bedding,129.2,145.13,2560,1093
+SKU-10324,Home Decor Item 324,Home Decor,63.29,62.04,29,366
+SKU-10325,Bedding Item 325,Bedding,124.62,142.66,6225,705
+SKU-10326,Bedding Item 326,Bedding,90.23,75.17,1,1121
+SKU-10327,Kitchenware Item 327,Kitchenware,46.52,59.53,3133,737
+SKU-10328,Home Decor Item 328,Home Decor,54.45,45.56,5,416
+SKU-10329,Furniture Item 329,Furniture,147.72,289.94,1536,372
+SKU-10330,Bedding Item 330,Bedding,118.74,239.65,1091,731
+SKU-10331,Furniture Item 331,Furniture,294.43,251.44,31,553
+SKU-10332,Furniture Item 332,Furniture,555.14,1218.59,4058,544
+SKU-10333,Furniture Item 333,Furniture,439.22,427.7,30,756
+SKU-10334,Gardening Item 334,Gardening,33.89,68.2,2179,462
+SKU-10335,Bedding Item 335,Bedding,96.53,359.17,89,61
+SKU-10336,Home Decor Item 336,Home Decor,97.35,349.13,280,72
+SKU-10337,Home Decor Item 337,Home Decor,59.59,222.96,263,95
+SKU-10338,Home Decor Item 338,Home Decor,11.54,14.52,4293,1160
+SKU-10339,Furniture Item 339,Furniture,576.68,1124.9,1900,412
+SKU-10340,Furniture Item 340,Furniture,268.84,219.42,17,971
+SKU-10341,Bedding Item 341,Bedding,62.0,73.83,4442,807
+SKU-10342,Home Decor Item 342,Home Decor,78.35,154.39,2587,793
+SKU-10343,Gardening Item 343,Gardening,62.62,73.8,5493,1053
+SKU-10344,Home Decor Item 344,Home Decor,28.64,57.88,4191,328
+SKU-10345,Furniture Item 345,Furniture,406.32,450.08,2241,1455
+SKU-10346,Home Decor Item 346,Home Decor,125.52,160.54,2775,699
+SKU-10347,Kitchenware Item 347,Kitchenware,32.63,78.88,1855,780
+SKU-10348,Bedding Item 348,Bedding,81.71,208.94,126,96
+SKU-10349,Gardening Item 349,Gardening,102.26,82.12,34,944
+SKU-10350,Bedding Item 350,Bedding,113.25,147.04,2365,935
+SKU-10351,Gardening Item 351,Gardening,102.59,214.26,4562,549
+SKU-10352,Furniture Item 352,Furniture,114.66,278.54,4291,559
+SKU-10353,Kitchenware Item 353,Kitchenware,48.92,131.21,244,77
+SKU-10354,Kitchenware Item 354,Kitchenware,33.98,130.59,239,19
+SKU-10355,Home Decor Item 355,Home Decor,27.53,33.6,2769,1192
+SKU-10356,Bedding Item 356,Bedding,31.93,78.22,3320,382
+SKU-10357,Kitchenware Item 357,Kitchenware,21.75,28.02,5697,913
+SKU-10358,Bedding Item 358,Bedding,27.01,48.86,1685,321
+SKU-10359,Kitchenware Item 359,Kitchenware,16.63,60.41,198,30
+SKU-10360,Bedding Item 360,Bedding,17.54,22.75,2661,1033
+SKU-10361,Bedding Item 361,Bedding,16.04,36.58,3588,635
+SKU-10362,Gardening Item 362,Gardening,145.12,169.57,6183,777
+SKU-10363,Gardening Item 363,Gardening,116.15,101.56,2,318
+SKU-10364,Home Decor Item 364,Home Decor,23.13,84.22,74,17
+SKU-10365,Furniture Item 365,Furniture,490.63,500.62,4,1199
+SKU-10366,Gardening Item 366,Gardening,66.21,62.16,24,1195
+SKU-10367,Gardening Item 367,Gardening,36.32,43.76,4547,733
+SKU-10368,Furniture Item 368,Furniture,687.97,585.21,13,717
+SKU-10369,Home Decor Item 369,Home Decor,61.51,78.02,3778,569
+SKU-10370,Gardening Item 370,Gardening,149.49,183.67,3404,1405
+SKU-10371,Gardening Item 371,Gardening,29.3,103.81,103,30
+SKU-10372,Furniture Item 372,Furniture,533.71,628.47,3080,772
+SKU-10373,Bedding Item 373,Bedding,81.42,76.94,36,354
+SKU-10374,Bedding Item 374,Bedding,88.49,300.79,211,28
+SKU-10375,Bedding Item 375,Bedding,125.51,155.51,6501,575
+SKU-10376,Furniture Item 376,Furniture,595.38,541.82,18,1039
+SKU-10377,Kitchenware Item 377,Kitchenware,24.53,45.23,2651,675
+SKU-10378,Gardening Item 378,Gardening,117.32,106.21,32,559
+SKU-10379,Bedding Item 379,Bedding,119.99,299.23,2733,323
+SKU-10380,Gardening Item 380,Gardening,113.6,96.12,4,872
+SKU-10381,Furniture Item 381,Furniture,334.16,738.51,4696,762
+SKU-10382,Home Decor Item 382,Home Decor,17.86,18.18,25,648
+SKU-10383,Home Decor Item 383,Home Decor,77.33,92.53,2703,1081
+SKU-10384,Furniture Item 384,Furniture,156.42,142.22,34,612
+SKU-10385,Bedding Item 385,Bedding,117.17,221.68,2851,768
+SKU-10386,Bedding Item 386,Bedding,101.97,88.79,29,917
+SKU-10387,Bedding Item 387,Bedding,48.6,55.89,2269,1347
+SKU-10388,Furniture Item 388,Furniture,691.35,827.9,2840,1195
+SKU-10389,Gardening Item 389,Gardening,18.77,17.52,20,818
+SKU-10390,Furniture Item 390,Furniture,612.71,2046.62,265,80
+SKU-10391,Home Decor Item 391,Home Decor,17.32,21.21,6991,664
+SKU-10392,Furniture Item 392,Furniture,785.69,1523.18,4670,504
+SKU-10393,Gardening Item 393,Gardening,53.22,47.22,11,724
+SKU-10394,Kitchenware Item 394,Kitchenware,11.81,14.31,2597,1092
+SKU-10395,Home Decor Item 395,Home Decor,41.84,46.59,4090,1097
+SKU-10396,Kitchenware Item 396,Kitchenware,29.46,70.49,1197,716
+SKU-10397,Furniture Item 397,Furniture,564.93,718.82,2097,934
+SKU-10398,Home Decor Item 398,Home Decor,114.9,136.94,6666,1203
+SKU-10399,Gardening Item 399,Gardening,120.08,136.04,4324,882
+SKU-10400,Bedding Item 400,Bedding,115.95,311.82,169,88
+SKU-10401,Bedding Item 401,Bedding,131.88,159.84,5048,1295
+SKU-10402,Furniture Item 402,Furniture,490.59,1567.86,297,81
+SKU-10403,Bedding Item 403,Bedding,85.42,100.31,6869,1290
+SKU-10404,Kitchenware Item 404,Kitchenware,22.88,56.64,3756,703
+SKU-10405,Bedding Item 405,Bedding,83.27,104.21,2475,984
+SKU-10406,Home Decor Item 406,Home Decor,53.73,208.07,192,91
+SKU-10407,Furniture Item 407,Furniture,413.32,1229.69,179,12
+SKU-10408,Home Decor Item 408,Home Decor,136.86,164.43,6135,719
+SKU-10409,Kitchenware Item 409,Kitchenware,6.5,7.35,2687,759
+SKU-10410,Gardening Item 410,Gardening,133.54,139.83,15,408
+SKU-10411,Home Decor Item 411,Home Decor,103.51,413.58,53,68
+SKU-10412,Gardening Item 412,Gardening,106.16,244.55,3243,581
+SKU-10413,Home Decor Item 413,Home Decor,146.28,184.88,2264,933
+SKU-10414,Gardening Item 414,Gardening,116.34,116.97,1,1175
+SKU-10415,Kitchenware Item 415,Kitchenware,21.1,26.92,3154,1297
+SKU-10416,Furniture Item 416,Furniture,271.04,506.96,2241,745
+SKU-10417,Kitchenware Item 417,Kitchenware,38.29,86.36,2098,375
+SKU-10418,Kitchenware Item 418,Kitchenware,42.87,47.42,2930,1392
+SKU-10419,Furniture Item 419,Furniture,327.57,1153.88,205,79
+SKU-10420,Kitchenware Item 420,Kitchenware,34.49,28.25,22,878
+SKU-10421,Bedding Item 421,Bedding,131.29,145.3,6628,1128
+SKU-10422,Home Decor Item 422,Home Decor,101.44,87.06,11,692
+SKU-10423,Gardening Item 423,Gardening,18.27,18.61,32,518
+SKU-10424,Gardening Item 424,Gardening,25.54,29.25,4597,1000
+SKU-10425,Gardening Item 425,Gardening,67.79,54.53,19,723
+SKU-10426,Furniture Item 426,Furniture,776.37,1926.13,1082,625
+SKU-10427,Gardening Item 427,Gardening,122.69,274.2,4398,272
+SKU-10428,Gardening Item 428,Gardening,97.95,373.12,68,23
+SKU-10429,Home Decor Item 429,Home Decor,85.7,157.02,1285,575
+SKU-10430,Bedding Item 430,Bedding,52.18,148.16,276,87
+SKU-10431,Kitchenware Item 431,Kitchenware,7.17,7.3,7,936
+SKU-10432,Kitchenware Item 432,Kitchenware,49.51,141.55,65,57
+SKU-10433,Bedding Item 433,Bedding,91.59,85.21,20,624
+SKU-10434,Bedding Item 434,Bedding,40.83,49.2,4044,1404
+SKU-10435,Bedding Item 435,Bedding,131.6,289.55,3527,500
+SKU-10436,Bedding Item 436,Bedding,137.49,167.8,2526,525
+SKU-10437,Bedding Item 437,Bedding,72.07,228.32,100,38
+SKU-10438,Gardening Item 438,Gardening,43.24,123.29,77,85
+SKU-10439,Home Decor Item 439,Home Decor,145.91,178.03,4007,1450
+SKU-10440,Kitchenware Item 440,Kitchenware,27.78,106.61,55,91
+SKU-10441,Kitchenware Item 441,Kitchenware,6.79,18.4,76,74
+SKU-10442,Kitchenware Item 442,Kitchenware,19.91,24.33,2141,1248
+SKU-10443,Bedding Item 443,Bedding,38.98,147.39,279,71
+SKU-10444,Gardening Item 444,Gardening,128.15,152.2,2340,1203
+SKU-10445,Furniture Item 445,Furniture,305.44,306.72,8,1116
+SKU-10446,Kitchenware Item 446,Kitchenware,41.82,136.38,108,50
+SKU-10447,Home Decor Item 447,Home Decor,104.56,197.83,1906,757
+SKU-10448,Home Decor Item 448,Home Decor,65.24,83.28,5403,1456
+SKU-10449,Home Decor Item 449,Home Decor,46.14,172.38,210,78
+SKU-10450,Kitchenware Item 450,Kitchenware,33.64,80.08,4052,523
+SKU-10451,Kitchenware Item 451,Kitchenware,25.53,30.22,3774,583
+SKU-10452,Kitchenware Item 452,Kitchenware,8.2,19.05,3702,304
+SKU-10453,Furniture Item 453,Furniture,353.34,1149.51,59,60
+SKU-10454,Kitchenware Item 454,Kitchenware,32.57,31.25,19,928
+SKU-10455,Furniture Item 455,Furniture,470.99,393.53,29,380
+SKU-10456,Kitchenware Item 456,Kitchenware,23.99,26.8,3856,1474
+SKU-10457,Furniture Item 457,Furniture,737.09,675.66,30,707
+SKU-10458,Kitchenware Item 458,Kitchenware,8.03,9.53,3130,1110
+SKU-10459,Home Decor Item 459,Home Decor,48.55,59.14,5705,863
+SKU-10460,Furniture Item 460,Furniture,368.97,473.51,5243,562
+SKU-10461,Gardening Item 461,Gardening,91.51,113.57,3141,1428
+SKU-10462,Furniture Item 462,Furniture,216.8,240.42,5267,1332
+SKU-10463,Kitchenware Item 463,Kitchenware,47.6,58.51,5273,1487
+SKU-10464,Gardening Item 464,Gardening,57.68,127.9,1125,775
+SKU-10465,Home Decor Item 465,Home Decor,84.35,79.28,11,330
+SKU-10466,Bedding Item 466,Bedding,33.43,26.97,29,742
+SKU-10467,Gardening Item 467,Gardening,144.96,165.51,3178,862
+SKU-10468,Gardening Item 468,Gardening,32.4,61.66,2850,444
+SKU-10469,Furniture Item 469,Furniture,730.06,1505.64,3217,234
+SKU-10470,Bedding Item 470,Bedding,149.28,437.78,78,56
+SKU-10471,Bedding Item 471,Bedding,14.33,13.4,21,464
+SKU-10472,Kitchenware Item 472,Kitchenware,29.92,85.87,135,96
+SKU-10473,Gardening Item 473,Gardening,59.87,53.02,20,832
+SKU-10474,Bedding Item 474,Bedding,126.3,425.71,178,33
+SKU-10475,Home Decor Item 475,Home Decor,72.17,202.86,188,26
+SKU-10476,Gardening Item 476,Gardening,133.24,491.51,298,28
+SKU-10477,Home Decor Item 477,Home Decor,112.31,239.55,3564,363
+SKU-10478,Gardening Item 478,Gardening,28.53,102.24,147,54
+SKU-10479,Bedding Item 479,Bedding,15.32,12.73,38,483
+SKU-10480,Bedding Item 480,Bedding,75.35,143.48,2605,346
+SKU-10481,Furniture Item 481,Furniture,786.69,942.76,6959,1194
+SKU-10482,Furniture Item 482,Furniture,443.99,1617.33,239,24
+SKU-10483,Gardening Item 483,Gardening,81.58,101.58,5825,1448
+SKU-10484,Gardening Item 484,Gardening,67.06,67.17,3,462
+SKU-10485,Kitchenware Item 485,Kitchenware,7.68,18.37,3384,346
+SKU-10486,Gardening Item 486,Gardening,72.76,206.01,287,89
+SKU-10487,Furniture Item 487,Furniture,433.79,1651.91,220,19
+SKU-10488,Furniture Item 488,Furniture,542.78,2011.9,253,33
+SKU-10489,Gardening Item 489,Gardening,39.5,41.45,34,563
+SKU-10490,Furniture Item 490,Furniture,679.93,753.93,4694,791
+SKU-10491,Kitchenware Item 491,Kitchenware,33.48,77.92,1140,387
+SKU-10492,Kitchenware Item 492,Kitchenware,39.48,32.61,1,834
+SKU-10493,Kitchenware Item 493,Kitchenware,37.54,41.48,2413,574
+SKU-10494,Gardening Item 494,Gardening,86.88,340.7,254,43
+SKU-10495,Home Decor Item 495,Home Decor,143.72,506.26,65,26
+SKU-10496,Furniture Item 496,Furniture,656.16,536.89,1,312
+SKU-10497,Bedding Item 497,Bedding,130.88,168.29,3238,1393
+SKU-10498,Gardening Item 498,Gardening,13.08,37.15,88,39
+SKU-10499,Home Decor Item 499,Home Decor,14.71,18.09,5858,1225
+SKU-10500,Kitchenware Item 500,Kitchenware,37.39,35.39,9,755
+SKU-10501,Bedding Item 501,Bedding,99.19,354.21,227,62
+SKU-10502,Bedding Item 502,Bedding,30.0,27.01,17,589
+SKU-10503,Furniture Item 503,Furniture,676.64,609.39,11,740
+SKU-10504,Kitchenware Item 504,Kitchenware,28.0,62.03,4167,408
+SKU-10505,Furniture Item 505,Furniture,426.88,476.63,2888,1167
+SKU-10506,Gardening Item 506,Gardening,125.74,300.51,1136,627
+SKU-10507,Bedding Item 507,Bedding,120.45,109.08,12,497
+SKU-10508,Bedding Item 508,Bedding,104.52,224.26,1470,374
+SKU-10509,Home Decor Item 509,Home Decor,109.83,320.44,210,20
+SKU-10510,Kitchenware Item 510,Kitchenware,35.42,29.27,8,1022
+SKU-10511,Bedding Item 511,Bedding,149.93,370.28,2525,739
+SKU-10512,Kitchenware Item 512,Kitchenware,26.42,54.37,4839,435
+SKU-10513,Kitchenware Item 513,Kitchenware,7.36,6.9,17,399
+SKU-10514,Furniture Item 514,Furniture,248.4,893.17,252,95
+SKU-10515,Kitchenware Item 515,Kitchenware,40.83,36.69,33,1075
+SKU-10516,Bedding Item 516,Bedding,113.4,133.71,2939,987
+SKU-10517,Kitchenware Item 517,Kitchenware,45.06,50.09,3548,617
+SKU-10518,Furniture Item 518,Furniture,480.66,870.14,4657,301
+SKU-10519,Furniture Item 519,Furniture,113.53,206.85,4209,586
+SKU-10520,Kitchenware Item 520,Kitchenware,45.77,54.6,6636,1239
+SKU-10521,Furniture Item 521,Furniture,463.32,1474.47,133,25
+SKU-10522,Kitchenware Item 522,Kitchenware,28.46,26.86,26,981
+SKU-10523,Gardening Item 523,Gardening,63.56,70.14,5462,1000
+SKU-10524,Kitchenware Item 524,Kitchenware,39.79,137.79,293,21
+SKU-10525,Gardening Item 525,Gardening,102.82,387.7,277,82
+SKU-10526,Gardening Item 526,Gardening,126.17,402.09,297,95
+SKU-10527,Gardening Item 527,Gardening,52.41,128.72,1488,425
+SKU-10528,Bedding Item 528,Bedding,76.28,168.38,2241,303
+SKU-10529,Kitchenware Item 529,Kitchenware,15.76,52.28,261,24
+SKU-10530,Bedding Item 530,Bedding,118.77,133.99,5270,525
+SKU-10531,Kitchenware Item 531,Kitchenware,40.16,159.53,60,81
+SKU-10532,Bedding Item 532,Bedding,64.34,239.02,284,56
+SKU-10533,Bedding Item 533,Bedding,57.23,55.91,30,541
+SKU-10534,Furniture Item 534,Furniture,203.11,398.34,2843,447
+SKU-10535,Kitchenware Item 535,Kitchenware,48.11,145.83,64,30
+SKU-10536,Home Decor Item 536,Home Decor,96.93,90.79,17,601
+SKU-10537,Home Decor Item 537,Home Decor,74.2,235.1,55,53
+SKU-10538,Home Decor Item 538,Home Decor,17.0,16.97,10,822
+SKU-10539,Bedding Item 539,Bedding,102.28,252.21,1579,759
+SKU-10540,Gardening Item 540,Gardening,147.36,469.85,188,27
+SKU-10541,Gardening Item 541,Gardening,34.65,44.92,4001,759
+SKU-10542,Bedding Item 542,Bedding,120.96,117.89,33,1110
+SKU-10543,Home Decor Item 543,Home Decor,143.41,120.52,7,307
+SKU-10544,Bedding Item 544,Bedding,44.63,163.87,88,93
+SKU-10545,Furniture Item 545,Furniture,640.14,811.11,6232,1047
+SKU-10546,Home Decor Item 546,Home Decor,62.78,161.28,220,51
+SKU-10547,Bedding Item 547,Bedding,34.9,92.26,225,36
+SKU-10548,Kitchenware Item 548,Kitchenware,23.12,23.71,9,737
+SKU-10549,Gardening Item 549,Gardening,143.68,179.91,2600,1252
+SKU-10550,Gardening Item 550,Gardening,64.94,52.89,34,658
+SKU-10551,Gardening Item 551,Gardening,48.58,139.73,222,93
+SKU-10552,Home Decor Item 552,Home Decor,60.2,231.98,163,35
+SKU-10553,Home Decor Item 553,Home Decor,146.41,286.18,1314,304
+SKU-10554,Home Decor Item 554,Home Decor,15.04,34.23,3401,779
+SKU-10555,Home Decor Item 555,Home Decor,110.68,362.49,198,35
+SKU-10556,Gardening Item 556,Gardening,49.55,63.88,4038,1051
+SKU-10557,Home Decor Item 557,Home Decor,68.72,63.53,19,927
+SKU-10558,Home Decor Item 558,Home Decor,92.76,205.52,4218,757
+SKU-10559,Bedding Item 559,Bedding,99.05,126.37,2270,1396
+SKU-10560,Gardening Item 560,Gardening,23.31,22.69,35,835
+SKU-10561,Furniture Item 561,Furniture,677.35,2241.11,226,32
+SKU-10562,Home Decor Item 562,Home Decor,15.26,33.15,4901,708
+SKU-10563,Kitchenware Item 563,Kitchenware,7.76,10.05,5896,890
+SKU-10564,Home Decor Item 564,Home Decor,52.55,65.47,2341,1487
+SKU-10565,Bedding Item 565,Bedding,41.4,129.33,288,22
+SKU-10566,Furniture Item 566,Furniture,312.05,394.23,3135,705
+SKU-10567,Kitchenware Item 567,Kitchenware,21.69,22.69,35,803
+SKU-10568,Home Decor Item 568,Home Decor,85.95,159.42,1271,401
+SKU-10569,Gardening Item 569,Gardening,47.66,187.24,258,19
+SKU-10570,Kitchenware Item 570,Kitchenware,21.28,17.71,24,1168
+SKU-10571,Kitchenware Item 571,Kitchenware,28.12,111.33,85,97
+SKU-10572,Furniture Item 572,Furniture,588.05,605.83,5,706
+SKU-10573,Furniture Item 573,Furniture,610.29,492.94,16,980
+SKU-10574,Home Decor Item 574,Home Decor,29.9,38.75,3363,1014
+SKU-10575,Kitchenware Item 575,Kitchenware,36.55,32.09,0,773
+SKU-10576,Bedding Item 576,Bedding,120.07,96.54,17,342
+SKU-10577,Bedding Item 577,Bedding,27.41,28.58,32,1000
+SKU-10578,Bedding Item 578,Bedding,88.26,292.98,183,58
+SKU-10579,Gardening Item 579,Gardening,70.14,89.26,5407,1024
+SKU-10580,Gardening Item 580,Gardening,143.35,180.87,3481,594
+SKU-10581,Bedding Item 581,Bedding,97.5,120.37,5093,1496
+SKU-10582,Gardening Item 582,Gardening,129.1,111.26,17,1139
+SKU-10583,Bedding Item 583,Bedding,36.17,72.87,4636,482
+SKU-10584,Bedding Item 584,Bedding,96.98,123.71,4616,568
+SKU-10585,Gardening Item 585,Gardening,59.82,136.38,4560,396
+SKU-10586,Gardening Item 586,Gardening,17.92,23.23,2451,583
+SKU-10587,Gardening Item 587,Gardening,119.94,349.83,197,91
+SKU-10588,Furniture Item 588,Furniture,740.31,1601.36,2597,216
+SKU-10589,Furniture Item 589,Furniture,779.47,1706.15,2341,281
+SKU-10590,Furniture Item 590,Furniture,507.53,565.8,5275,886
+SKU-10591,Furniture Item 591,Furniture,461.75,402.59,1,885
+SKU-10592,Furniture Item 592,Furniture,522.55,1279.12,1668,219
+SKU-10593,Gardening Item 593,Gardening,70.25,241.35,196,75
+SKU-10594,Home Decor Item 594,Home Decor,12.12,11.4,14,372
+SKU-10595,Kitchenware Item 595,Kitchenware,35.24,102.44,236,11
+SKU-10596,Home Decor Item 596,Home Decor,34.37,65.59,3008,278
+SKU-10597,Gardening Item 597,Gardening,113.11,108.17,21,713
+SKU-10598,Kitchenware Item 598,Kitchenware,7.27,24.54,94,58
+SKU-10599,Kitchenware Item 599,Kitchenware,25.26,24.79,35,345
+SKU-10600,Furniture Item 600,Furniture,617.59,740.86,4704,1294
+SKU-10601,Furniture Item 601,Furniture,164.84,149.76,24,570
+SKU-10602,Bedding Item 602,Bedding,70.82,74.29,25,1159
+SKU-10603,Kitchenware Item 603,Kitchenware,29.61,105.74,227,49
+SKU-10604,Kitchenware Item 604,Kitchenware,41.83,75.69,2459,774
+SKU-10605,Kitchenware Item 605,Kitchenware,14.65,16.3,6897,560
+SKU-10606,Furniture Item 606,Furniture,612.91,2079.13,124,57
+SKU-10607,Furniture Item 607,Furniture,719.48,869.74,4366,1185
+SKU-10608,Gardening Item 608,Gardening,96.35,89.64,26,990
+SKU-10609,Furniture Item 609,Furniture,399.25,460.64,2294,1295
+SKU-10610,Kitchenware Item 610,Kitchenware,45.29,166.72,105,11
+SKU-10611,Home Decor Item 611,Home Decor,132.32,415.67,279,45
+SKU-10612,Furniture Item 612,Furniture,554.53,501.76,27,362
+SKU-10613,Gardening Item 613,Gardening,93.84,110.87,6351,1374
+SKU-10614,Bedding Item 614,Bedding,39.4,46.57,5074,1253
+SKU-10615,Kitchenware Item 615,Kitchenware,16.71,36.12,2007,220
+SKU-10616,Furniture Item 616,Furniture,717.18,653.75,19,368
+SKU-10617,Kitchenware Item 617,Kitchenware,18.94,22.93,4359,1164
+SKU-10618,Home Decor Item 618,Home Decor,113.95,268.08,4927,510
+SKU-10619,Home Decor Item 619,Home Decor,55.74,71.81,6409,596
+SKU-10620,Kitchenware Item 620,Kitchenware,9.62,11.54,4156,1161
+SKU-10621,Kitchenware Item 621,Kitchenware,43.65,131.69,258,89
+SKU-10622,Gardening Item 622,Gardening,68.03,130.1,3504,798
+SKU-10623,Home Decor Item 623,Home Decor,111.07,124.79,3647,900
+SKU-10624,Home Decor Item 624,Home Decor,110.62,96.71,17,1057
+SKU-10625,Kitchenware Item 625,Kitchenware,20.54,23.58,2498,1149
+SKU-10626,Bedding Item 626,Bedding,91.5,203.63,2257,405
+SKU-10627,Gardening Item 627,Gardening,56.99,54.38,23,808
+SKU-10628,Kitchenware Item 628,Kitchenware,23.71,29.3,2018,1435
+SKU-10629,Furniture Item 629,Furniture,220.19,731.02,292,10
+SKU-10630,Furniture Item 630,Furniture,115.5,105.08,28,1155
+SKU-10631,Furniture Item 631,Furniture,458.6,1113.01,4865,206
+SKU-10632,Furniture Item 632,Furniture,455.46,556.7,3776,670
+SKU-10633,Kitchenware Item 633,Kitchenware,35.3,40.39,5700,1293
+SKU-10634,Bedding Item 634,Bedding,133.42,124.6,8,1132
+SKU-10635,Home Decor Item 635,Home Decor,124.99,114.1,6,638
+SKU-10636,Gardening Item 636,Gardening,129.7,104.19,2,841
+SKU-10637,Kitchenware Item 637,Kitchenware,41.16,33.62,1,833
+SKU-10638,Bedding Item 638,Bedding,35.44,28.94,14,1124
+SKU-10639,Kitchenware Item 639,Kitchenware,8.33,10.82,4604,1031
+SKU-10640,Home Decor Item 640,Home Decor,88.27,103.28,2002,1331
+SKU-10641,Gardening Item 641,Gardening,108.93,134.13,4890,1118
+SKU-10642,Gardening Item 642,Gardening,63.09,50.56,8,423
+SKU-10643,Furniture Item 643,Furniture,640.97,2161.03,202,82
+SKU-10644,Furniture Item 644,Furniture,483.62,1791.58,111,67
+SKU-10645,Bedding Item 645,Bedding,29.65,105.83,241,68
+SKU-10646,Bedding Item 646,Bedding,37.3,31.32,28,699
+SKU-10647,Gardening Item 647,Gardening,70.64,66.08,36,873
+SKU-10648,Furniture Item 648,Furniture,314.83,370.63,2053,1115
+SKU-10649,Gardening Item 649,Gardening,35.95,112.79,179,85
+SKU-10650,Furniture Item 650,Furniture,454.94,1005.09,3640,377
+SKU-10651,Bedding Item 651,Bedding,72.14,87.28,2383,1004
+SKU-10652,Gardening Item 652,Gardening,141.47,465.87,178,37
+SKU-10653,Home Decor Item 653,Home Decor,107.25,135.64,4915,1085
+SKU-10654,Home Decor Item 654,Home Decor,124.09,129.78,22,639
+SKU-10655,Furniture Item 655,Furniture,589.26,651.86,6487,1074
+SKU-10656,Home Decor Item 656,Home Decor,133.09,163.16,3540,1313
+SKU-10657,Furniture Item 657,Furniture,648.64,828.72,2365,1243
+SKU-10658,Home Decor Item 658,Home Decor,71.1,267.85,195,84
+SKU-10659,Kitchenware Item 659,Kitchenware,30.95,73.62,3735,498
+SKU-10660,Home Decor Item 660,Home Decor,114.75,91.96,9,1158
+SKU-10661,Gardening Item 661,Gardening,89.96,101.3,4828,958
+SKU-10662,Gardening Item 662,Gardening,128.89,158.64,6603,1302
+SKU-10663,Furniture Item 663,Furniture,594.31,727.38,5839,854
+SKU-10664,Gardening Item 664,Gardening,97.45,87.47,9,367
+SKU-10665,Home Decor Item 665,Home Decor,99.37,97.06,1,964
+SKU-10666,Bedding Item 666,Bedding,89.73,92.62,10,994
+SKU-10667,Bedding Item 667,Bedding,83.87,99.69,5634,1061
+SKU-10668,Bedding Item 668,Bedding,130.55,144.99,3037,1406
+SKU-10669,Home Decor Item 669,Home Decor,104.47,278.42,259,84
+SKU-10670,Home Decor Item 670,Home Decor,98.43,225.21,1570,381
+SKU-10671,Furniture Item 671,Furniture,488.28,463.78,6,954
+SKU-10672,Bedding Item 672,Bedding,15.93,59.83,258,23
+SKU-10673,Furniture Item 673,Furniture,113.4,114.48,14,417
+SKU-10674,Bedding Item 674,Bedding,144.53,568.04,233,22
+SKU-10675,Home Decor Item 675,Home Decor,91.83,94.61,1,837
+SKU-10676,Gardening Item 676,Gardening,93.0,115.37,5221,528
+SKU-10677,Furniture Item 677,Furniture,159.2,456.8,165,55
+SKU-10678,Gardening Item 678,Gardening,39.57,38.95,26,387
+SKU-10679,Kitchenware Item 679,Kitchenware,49.88,113.91,2257,422
+SKU-10680,Kitchenware Item 680,Kitchenware,25.93,21.57,29,679
+SKU-10681,Home Decor Item 681,Home Decor,146.55,128.45,29,793
+SKU-10682,Gardening Item 682,Gardening,120.52,138.1,4617,775
+SKU-10683,Furniture Item 683,Furniture,287.99,606.78,1563,283
+SKU-10684,Gardening Item 684,Gardening,147.94,311.84,1583,255
+SKU-10685,Gardening Item 685,Gardening,55.68,61.47,2861,1149
+SKU-10686,Bedding Item 686,Bedding,59.74,236.77,273,35
+SKU-10687,Bedding Item 687,Bedding,30.57,39.66,4430,875
+SKU-10688,Furniture Item 688,Furniture,680.52,570.95,31,491
+SKU-10689,Furniture Item 689,Furniture,453.86,817.94,4426,645
+SKU-10690,Kitchenware Item 690,Kitchenware,24.88,22.75,33,388
+SKU-10691,Furniture Item 691,Furniture,567.05,481.88,14,1130
+SKU-10692,Home Decor Item 692,Home Decor,148.52,119.41,19,381
+SKU-10693,Home Decor Item 693,Home Decor,113.83,144.3,5109,826
+SKU-10694,Kitchenware Item 694,Kitchenware,43.69,52.03,3830,844
+SKU-10695,Home Decor Item 695,Home Decor,134.58,126.77,5,487
+SKU-10696,Furniture Item 696,Furniture,708.72,911.75,3574,1344
+SKU-10697,Gardening Item 697,Gardening,29.77,81.81,269,76
+SKU-10698,Bedding Item 698,Bedding,78.71,91.08,2719,921
+SKU-10699,Kitchenware Item 699,Kitchenware,40.35,47.35,4953,1198
+SKU-10700,Bedding Item 700,Bedding,87.95,74.21,4,644
+SKU-10701,Kitchenware Item 701,Kitchenware,16.37,47.05,133,31
+SKU-10702,Bedding Item 702,Bedding,10.09,9.02,19,636
+SKU-10703,Bedding Item 703,Bedding,74.17,85.1,5129,1230
+SKU-10704,Home Decor Item 704,Home Decor,142.25,406.45,108,68
+SKU-10705,Home Decor Item 705,Home Decor,75.53,85.42,3724,501
+SKU-10706,Furniture Item 706,Furniture,459.05,455.54,12,1032
+SKU-10707,Furniture Item 707,Furniture,219.5,402.08,3708,666
+SKU-10708,Bedding Item 708,Bedding,103.8,124.59,5435,970
+SKU-10709,Bedding Item 709,Bedding,48.99,49.47,8,300
+SKU-10710,Bedding Item 710,Bedding,13.5,15.75,3288,639
+SKU-10711,Kitchenware Item 711,Kitchenware,39.8,34.64,7,489
+SKU-10712,Bedding Item 712,Bedding,63.17,59.51,10,1162
+SKU-10713,Kitchenware Item 713,Kitchenware,14.49,48.51,262,32
+SKU-10714,Furniture Item 714,Furniture,322.63,320.64,7,526
+SKU-10715,Gardening Item 715,Gardening,58.31,116.95,4186,303
+SKU-10716,Gardening Item 716,Gardening,99.19,348.94,55,37
+SKU-10717,Furniture Item 717,Furniture,533.73,1926.02,293,99
+SKU-10718,Kitchenware Item 718,Kitchenware,17.67,16.54,31,527
+SKU-10719,Bedding Item 719,Bedding,148.62,167.71,3378,1195
+SKU-10720,Gardening Item 720,Gardening,128.93,307.41,3863,646
+SKU-10721,Bedding Item 721,Bedding,36.0,40.05,6005,636
+SKU-10722,Bedding Item 722,Bedding,48.21,57.34,4796,1301
+SKU-10723,Gardening Item 723,Gardening,44.53,57.04,5049,1415
+SKU-10724,Furniture Item 724,Furniture,224.03,288.63,3977,612
+SKU-10725,Gardening Item 725,Gardening,39.74,142.11,75,96
+SKU-10726,Furniture Item 726,Furniture,726.89,635.82,22,667
+SKU-10727,Kitchenware Item 727,Kitchenware,24.8,21.96,2,1151
+SKU-10728,Kitchenware Item 728,Kitchenware,42.01,91.25,3044,493
+SKU-10729,Home Decor Item 729,Home Decor,78.99,93.75,2974,1288
+SKU-10730,Kitchenware Item 730,Kitchenware,22.56,26.36,6970,802
+SKU-10731,Bedding Item 731,Bedding,91.4,200.77,1738,391
+SKU-10732,Gardening Item 732,Gardening,67.52,169.89,229,84
+SKU-10733,Home Decor Item 733,Home Decor,119.2,253.27,2716,255
+SKU-10734,Gardening Item 734,Gardening,147.28,188.39,2584,1013
+SKU-10735,Kitchenware Item 735,Kitchenware,36.49,120.35,60,85
+SKU-10736,Furniture Item 736,Furniture,652.64,682.6,27,756
+SKU-10737,Furniture Item 737,Furniture,401.86,444.24,3587,1396
+SKU-10738,Home Decor Item 738,Home Decor,95.96,118.77,5262,925
+SKU-10739,Home Decor Item 739,Home Decor,114.33,233.86,3658,207
+SKU-10740,Kitchenware Item 740,Kitchenware,19.77,25.04,2656,995
+SKU-10741,Home Decor Item 741,Home Decor,127.73,144.07,3262,1154
+SKU-10742,Home Decor Item 742,Home Decor,63.85,72.84,3268,559
+SKU-10743,Home Decor Item 743,Home Decor,140.72,478.82,266,56
+SKU-10744,Home Decor Item 744,Home Decor,53.65,66.06,4618,645
+SKU-10745,Bedding Item 745,Bedding,88.71,75.93,12,855
+SKU-10746,Gardening Item 746,Gardening,118.3,219.3,3466,321
+SKU-10747,Bedding Item 747,Bedding,124.05,477.47,194,59
+SKU-10748,Kitchenware Item 748,Kitchenware,24.99,24.21,5,697
+SKU-10749,Home Decor Item 749,Home Decor,19.82,24.0,5907,1219
+SKU-10750,Bedding Item 750,Bedding,137.01,262.76,3905,436
+SKU-10751,Furniture Item 751,Furniture,489.93,633.84,6887,658
+SKU-10752,Kitchenware Item 752,Kitchenware,19.09,19.73,6,670
+SKU-10753,Furniture Item 753,Furniture,321.61,402.17,4845,1157
+SKU-10754,Furniture Item 754,Furniture,574.21,726.31,5681,672
+SKU-10755,Home Decor Item 755,Home Decor,11.13,11.04,3,305
+SKU-10756,Furniture Item 756,Furniture,690.95,797.96,2607,701
+SKU-10757,Bedding Item 757,Bedding,40.13,40.41,2,1110
+SKU-10758,Kitchenware Item 758,Kitchenware,36.35,45.28,4896,1400
+SKU-10759,Gardening Item 759,Gardening,142.55,164.38,4806,1262
+SKU-10760,Furniture Item 760,Furniture,118.04,376.48,136,27
+SKU-10761,Kitchenware Item 761,Kitchenware,18.7,41.82,1713,374
+SKU-10762,Home Decor Item 762,Home Decor,53.01,194.25,79,34
+SKU-10763,Furniture Item 763,Furniture,728.58,1485.11,2337,224
+SKU-10764,Gardening Item 764,Gardening,94.34,185.34,3146,796
+SKU-10765,Home Decor Item 765,Home Decor,142.76,163.64,5792,1075
+SKU-10766,Furniture Item 766,Furniture,748.52,829.27,5066,740
+SKU-10767,Gardening Item 767,Gardening,65.01,160.09,2881,563
+SKU-10768,Gardening Item 768,Gardening,52.9,108.7,1075,673
+SKU-10769,Gardening Item 769,Gardening,84.95,327.6,121,55
+SKU-10770,Bedding Item 770,Bedding,69.66,59.59,16,764
+SKU-10771,Bedding Item 771,Bedding,124.42,105.55,15,929
+SKU-10772,Home Decor Item 772,Home Decor,97.7,111.6,5734,1469
+SKU-10773,Home Decor Item 773,Home Decor,131.89,116.54,28,527
+SKU-10774,Bedding Item 774,Bedding,32.59,95.97,113,64
+SKU-10775,Bedding Item 775,Bedding,86.64,78.14,35,523
+SKU-10776,Furniture Item 776,Furniture,139.68,284.42,1044,233
+SKU-10777,Home Decor Item 777,Home Decor,44.51,45.47,35,666
+SKU-10778,Bedding Item 778,Bedding,27.1,53.33,2573,438
+SKU-10779,Kitchenware Item 779,Kitchenware,11.35,35.13,99,29
+SKU-10780,Gardening Item 780,Gardening,60.47,240.94,270,86
+SKU-10781,Furniture Item 781,Furniture,411.17,1630.67,117,40
+SKU-10782,Gardening Item 782,Gardening,90.89,95.1,18,587
+SKU-10783,Furniture Item 783,Furniture,404.05,498.23,4363,1363
+SKU-10784,Home Decor Item 784,Home Decor,70.15,78.56,2886,826
+SKU-10785,Furniture Item 785,Furniture,466.52,596.2,5792,847
+SKU-10786,Kitchenware Item 786,Kitchenware,34.34,29.65,6,1091
+SKU-10787,Bedding Item 787,Bedding,24.4,45.51,4367,530
+SKU-10788,Home Decor Item 788,Home Decor,28.91,64.07,3842,515
+SKU-10789,Bedding Item 789,Bedding,48.63,47.32,9,1107
+SKU-10790,Kitchenware Item 790,Kitchenware,33.14,31.9,36,536
+SKU-10791,Kitchenware Item 791,Kitchenware,43.23,107.97,2576,359
+SKU-10792,Furniture Item 792,Furniture,515.9,570.36,6683,1021
+SKU-10793,Kitchenware Item 793,Kitchenware,16.64,39.0,1059,634
+SKU-10794,Bedding Item 794,Bedding,111.4,137.32,3409,577
+SKU-10795,Furniture Item 795,Furniture,135.29,113.84,27,1170
+SKU-10796,Home Decor Item 796,Home Decor,19.72,37.25,4729,327
+SKU-10797,Furniture Item 797,Furniture,384.61,959.23,1035,221
+SKU-10798,Home Decor Item 798,Home Decor,136.04,137.31,32,447
+SKU-10799,Furniture Item 799,Furniture,506.84,565.8,6218,1464
+SKU-10800,Bedding Item 800,Bedding,55.62,100.74,4814,595
+SKU-10801,Kitchenware Item 801,Kitchenware,34.93,93.93,248,24
+SKU-10802,Bedding Item 802,Bedding,139.4,171.45,6651,608
+SKU-10803,Gardening Item 803,Gardening,66.28,54.99,13,1164
+SKU-10804,Home Decor Item 804,Home Decor,109.7,123.92,6178,689
+SKU-10805,Home Decor Item 805,Home Decor,144.07,479.7,250,34
+SKU-10806,Furniture Item 806,Furniture,524.99,627.9,3270,1439
+SKU-10807,Gardening Item 807,Gardening,126.16,117.7,10,1029
+SKU-10808,Gardening Item 808,Gardening,134.78,157.08,5966,610
+SKU-10809,Kitchenware Item 809,Kitchenware,23.12,78.35,119,60
+SKU-10810,Kitchenware Item 810,Kitchenware,33.46,63.02,2498,411
+SKU-10811,Home Decor Item 811,Home Decor,45.94,45.14,18,984
+SKU-10812,Gardening Item 812,Gardening,36.13,72.81,2109,310
+SKU-10813,Home Decor Item 813,Home Decor,121.51,136.71,6039,1309
+SKU-10814,Furniture Item 814,Furniture,175.63,202.95,2298,636
+SKU-10815,Bedding Item 815,Bedding,101.27,93.02,11,738
+SKU-10816,Gardening Item 816,Gardening,99.29,92.42,37,574
+SKU-10817,Bedding Item 817,Bedding,53.09,210.52,114,81
+SKU-10818,Gardening Item 818,Gardening,29.0,27.84,6,616
+SKU-10819,Bedding Item 819,Bedding,36.59,32.55,11,928
+SKU-10820,Home Decor Item 820,Home Decor,12.93,16.75,3912,880
+SKU-10821,Kitchenware Item 821,Kitchenware,48.49,176.25,273,20
+SKU-10822,Bedding Item 822,Bedding,140.86,163.91,2790,1246
+SKU-10823,Kitchenware Item 823,Kitchenware,22.0,40.79,2490,533
+SKU-10824,Gardening Item 824,Gardening,102.13,84.62,15,799
+SKU-10825,Home Decor Item 825,Home Decor,132.17,145.39,2946,1006
+SKU-10826,Home Decor Item 826,Home Decor,71.88,228.81,215,98
+SKU-10827,Furniture Item 827,Furniture,611.34,1165.22,4056,640
+SKU-10828,Home Decor Item 828,Home Decor,25.57,21.27,32,487
+SKU-10829,Furniture Item 829,Furniture,126.66,327.78,295,10
+SKU-10830,Furniture Item 830,Furniture,710.34,2631.46,201,59
+SKU-10831,Bedding Item 831,Bedding,21.1,57.44,127,37
+SKU-10832,Bedding Item 832,Bedding,133.03,406.71,236,46
+SKU-10833,Kitchenware Item 833,Kitchenware,28.56,32.57,5715,777
+SKU-10834,Gardening Item 834,Gardening,120.8,120.3,35,992
+SKU-10835,Home Decor Item 835,Home Decor,27.41,24.16,22,689
+SKU-10836,Bedding Item 836,Bedding,15.64,18.53,3124,1265
+SKU-10837,Home Decor Item 837,Home Decor,11.47,11.5,9,929
+SKU-10838,Gardening Item 838,Gardening,57.86,58.07,11,460
+SKU-10839,Gardening Item 839,Gardening,28.51,32.02,5956,773
+SKU-10840,Gardening Item 840,Gardening,36.5,41.73,2421,1428
+SKU-10841,Bedding Item 841,Bedding,16.77,14.25,3,495
+SKU-10842,Kitchenware Item 842,Kitchenware,27.66,65.78,2473,333
+SKU-10843,Furniture Item 843,Furniture,649.08,1863.58,104,23
+SKU-10844,Bedding Item 844,Bedding,68.12,149.87,1432,628
+SKU-10845,Home Decor Item 845,Home Decor,94.61,95.49,31,550
+SKU-10846,Furniture Item 846,Furniture,156.07,176.14,3902,1277
+SKU-10847,Bedding Item 847,Bedding,44.18,136.82,189,86
+SKU-10848,Home Decor Item 848,Home Decor,77.66,88.44,6086,674
+SKU-10849,Bedding Item 849,Bedding,11.03,24.28,2159,532
+SKU-10850,Gardening Item 850,Gardening,132.92,354.95,126,80
+SKU-10851,Furniture Item 851,Furniture,229.69,729.69,278,19
+SKU-10852,Gardening Item 852,Gardening,92.49,103.17,5440,511
+SKU-10853,Kitchenware Item 853,Kitchenware,10.71,24.39,2391,619
+SKU-10854,Kitchenware Item 854,Kitchenware,7.66,30.05,246,27
+SKU-10855,Home Decor Item 855,Home Decor,22.76,25.81,5515,591
+SKU-10856,Gardening Item 856,Gardening,56.36,50.94,8,767
+SKU-10857,Bedding Item 857,Bedding,56.95,104.17,1993,717
+SKU-10858,Home Decor Item 858,Home Decor,43.17,96.37,2141,265
+SKU-10859,Furniture Item 859,Furniture,482.85,606.62,3854,1472
+SKU-10860,Furniture Item 860,Furniture,539.42,2151.63,196,62
+SKU-10861,Furniture Item 861,Furniture,712.02,640.69,23,862
+SKU-10862,Gardening Item 862,Gardening,146.95,284.55,4573,275
+SKU-10863,Bedding Item 863,Bedding,68.8,225.86,196,61
+SKU-10864,Home Decor Item 864,Home Decor,35.37,29.54,34,782
+SKU-10865,Home Decor Item 865,Home Decor,96.61,261.11,199,44
+SKU-10866,Bedding Item 866,Bedding,149.17,367.63,2462,284
+SKU-10867,Furniture Item 867,Furniture,734.93,653.05,0,926
+SKU-10868,Gardening Item 868,Gardening,108.1,366.54,126,96
+SKU-10869,Kitchenware Item 869,Kitchenware,34.52,75.91,2882,665
+SKU-10870,Gardening Item 870,Gardening,125.85,139.53,3073,846
+SKU-10871,Gardening Item 871,Gardening,107.29,299.74,80,49
+SKU-10872,Home Decor Item 872,Home Decor,78.34,191.03,3148,600
+SKU-10873,Bedding Item 873,Bedding,81.92,96.92,3521,830
+SKU-10874,Kitchenware Item 874,Kitchenware,15.92,35.16,2098,367
+SKU-10875,Gardening Item 875,Gardening,34.42,38.07,5735,1459
+SKU-10876,Kitchenware Item 876,Kitchenware,21.27,51.65,2058,352
+SKU-10877,Home Decor Item 877,Home Decor,79.23,192.02,4553,420
+SKU-10878,Gardening Item 878,Gardening,123.18,476.63,231,10
+SKU-10879,Furniture Item 879,Furniture,226.55,266.64,3462,844
+SKU-10880,Home Decor Item 880,Home Decor,93.17,318.92,119,57
+SKU-10881,Gardening Item 881,Gardening,22.29,51.28,3589,473
+SKU-10882,Bedding Item 882,Bedding,12.05,13.28,2478,690
+SKU-10883,Kitchenware Item 883,Kitchenware,18.9,20.86,5280,1110
+SKU-10884,Kitchenware Item 884,Kitchenware,44.88,56.62,2787,1122
+SKU-10885,Furniture Item 885,Furniture,671.26,1546.65,4692,294
+SKU-10886,Kitchenware Item 886,Kitchenware,44.59,82.04,4437,316
+SKU-10887,Gardening Item 887,Gardening,40.89,79.6,4980,467
+SKU-10888,Home Decor Item 888,Home Decor,43.47,38.17,6,1123
+SKU-10889,Bedding Item 889,Bedding,39.36,32.31,38,968
+SKU-10890,Furniture Item 890,Furniture,647.32,542.44,24,1087
+SKU-10891,Bedding Item 891,Bedding,17.63,40.72,3712,305
+SKU-10892,Gardening Item 892,Gardening,53.71,62.44,4933,824
+SKU-10893,Gardening Item 893,Gardening,65.76,127.51,1893,343
+SKU-10894,Kitchenware Item 894,Kitchenware,21.66,21.91,34,766
+SKU-10895,Bedding Item 895,Bedding,62.73,75.11,3167,731
+SKU-10896,Gardening Item 896,Gardening,44.8,54.17,3577,672
+SKU-10897,Home Decor Item 897,Home Decor,131.98,110.43,35,514
+SKU-10898,Home Decor Item 898,Home Decor,55.94,125.98,3733,737
+SKU-10899,Gardening Item 899,Gardening,52.85,126.99,2098,277
+SKU-10900,Gardening Item 900,Gardening,143.33,164.42,3207,1326
+SKU-10901,Gardening Item 901,Gardening,142.4,176.73,3644,690
+SKU-10902,Bedding Item 902,Bedding,97.5,251.59,286,36
+SKU-10903,Kitchenware Item 903,Kitchenware,26.4,22.23,22,1142
+SKU-10904,Furniture Item 904,Furniture,484.24,1067.49,2507,582
+SKU-10905,Kitchenware Item 905,Kitchenware,25.74,26.59,31,986
+SKU-10906,Gardening Item 906,Gardening,127.44,387.99,110,26
+SKU-10907,Bedding Item 907,Bedding,111.55,224.71,2073,697
+SKU-10908,Gardening Item 908,Gardening,105.08,372.29,57,71
+SKU-10909,Home Decor Item 909,Home Decor,51.76,48.95,31,555
+SKU-10910,Bedding Item 910,Bedding,86.2,76.65,14,1188
+SKU-10911,Home Decor Item 911,Home Decor,82.88,93.18,5998,1420
+SKU-10912,Gardening Item 912,Gardening,45.0,108.37,1973,293
+SKU-10913,Home Decor Item 913,Home Decor,75.52,86.02,3045,1283
+SKU-10914,Furniture Item 914,Furniture,554.12,637.98,6943,629
+SKU-10915,Bedding Item 915,Bedding,81.8,106.27,4640,824
+SKU-10916,Home Decor Item 916,Home Decor,138.9,158.46,5236,1208
+SKU-10917,Furniture Item 917,Furniture,253.74,547.86,3659,477
+SKU-10918,Furniture Item 918,Furniture,217.47,524.83,3925,526
+SKU-10919,Kitchenware Item 919,Kitchenware,15.43,14.32,3,381
+SKU-10920,Gardening Item 920,Gardening,62.48,178.16,77,64
+SKU-10921,Bedding Item 921,Bedding,138.5,254.51,1801,671
+SKU-10922,Kitchenware Item 922,Kitchenware,22.63,22.29,12,470
+SKU-10923,Home Decor Item 923,Home Decor,81.25,78.64,22,1097
+SKU-10924,Furniture Item 924,Furniture,474.48,1014.56,3118,495
+SKU-10925,Furniture Item 925,Furniture,476.88,465.71,28,1145
+SKU-10926,Kitchenware Item 926,Kitchenware,5.31,5.87,4738,1031
+SKU-10927,Gardening Item 927,Gardening,10.08,11.37,2240,883
+SKU-10928,Gardening Item 928,Gardening,69.94,146.33,4899,485
+SKU-10929,Home Decor Item 929,Home Decor,132.63,130.55,28,853
+SKU-10930,Furniture Item 930,Furniture,688.0,797.75,4449,772
+SKU-10931,Kitchenware Item 931,Kitchenware,42.99,41.22,2,868
+SKU-10932,Bedding Item 932,Bedding,12.91,12.97,0,776
+SKU-10933,Home Decor Item 933,Home Decor,34.06,38.62,3551,560
+SKU-10934,Furniture Item 934,Furniture,458.25,424.16,9,572
+SKU-10935,Kitchenware Item 935,Kitchenware,41.13,38.09,6,461
+SKU-10936,Home Decor Item 936,Home Decor,65.06,220.46,120,11
+SKU-10937,Furniture Item 937,Furniture,235.99,297.18,4699,1299
+SKU-10938,Kitchenware Item 938,Kitchenware,34.05,70.86,3548,410
+SKU-10939,Furniture Item 939,Furniture,254.36,506.62,3582,590
+SKU-10940,Bedding Item 940,Bedding,145.75,123.12,35,1003
+SKU-10941,Gardening Item 941,Gardening,142.69,339.66,2590,798
+SKU-10942,Home Decor Item 942,Home Decor,57.96,199.97,136,50
+SKU-10943,Kitchenware Item 943,Kitchenware,46.29,45.1,31,342
+SKU-10944,Kitchenware Item 944,Kitchenware,20.07,25.79,3759,509
+SKU-10945,Furniture Item 945,Furniture,517.53,469.14,16,926
+SKU-10946,Furniture Item 946,Furniture,495.08,482.21,15,826
+SKU-10947,Gardening Item 947,Gardening,109.77,259.14,3234,329
+SKU-10948,Bedding Item 948,Bedding,82.42,101.94,5672,1289
+SKU-10949,Furniture Item 949,Furniture,321.27,659.34,1100,316
+SKU-10950,Kitchenware Item 950,Kitchenware,8.63,18.81,4191,428
+SKU-10951,Kitchenware Item 951,Kitchenware,5.27,6.66,3341,1335
+SKU-10952,Kitchenware Item 952,Kitchenware,10.02,28.13,143,84
+SKU-10953,Home Decor Item 953,Home Decor,86.53,70.98,23,573
+SKU-10954,Furniture Item 954,Furniture,216.36,183.97,17,313
+SKU-10955,Kitchenware Item 955,Kitchenware,10.17,23.56,4066,758
+SKU-10956,Gardening Item 956,Gardening,17.63,21.03,2154,1496
+SKU-10957,Gardening Item 957,Gardening,22.2,25.93,3177,591
+SKU-10958,Kitchenware Item 958,Kitchenware,25.02,30.29,4857,1428
+SKU-10959,Bedding Item 959,Bedding,123.65,156.62,6662,1211
+SKU-10960,Bedding Item 960,Bedding,120.78,436.31,95,25
+SKU-10961,Home Decor Item 961,Home Decor,114.28,134.56,4511,699
+SKU-10962,Home Decor Item 962,Home Decor,74.99,208.44,197,87
+SKU-10963,Gardening Item 963,Gardening,25.8,93.46,210,54
+SKU-10964,Bedding Item 964,Bedding,40.24,41.83,25,697
+SKU-10965,Bedding Item 965,Bedding,76.51,74.74,32,1027
+SKU-10966,Furniture Item 966,Furniture,566.71,1417.58,97,75
+SKU-10967,Furniture Item 967,Furniture,784.1,976.69,3299,1398
+SKU-10968,Bedding Item 968,Bedding,108.12,102.0,13,973
+SKU-10969,Bedding Item 969,Bedding,100.79,194.0,2215,217
+SKU-10970,Bedding Item 970,Bedding,127.89,395.25,166,80
+SKU-10971,Gardening Item 971,Gardening,57.6,57.27,36,742
+SKU-10972,Home Decor Item 972,Home Decor,35.45,44.25,6473,1192
+SKU-10973,Home Decor Item 973,Home Decor,26.67,51.97,2989,604
+SKU-10974,Home Decor Item 974,Home Decor,127.11,125.17,23,930
+SKU-10975,Furniture Item 975,Furniture,751.12,2477.43,287,19
+SKU-10976,Furniture Item 976,Furniture,170.97,159.53,30,1079
+SKU-10977,Bedding Item 977,Bedding,34.44,32.87,20,431
+SKU-10978,Furniture Item 978,Furniture,609.34,597.33,16,1073
+SKU-10979,Home Decor Item 979,Home Decor,103.34,296.91,176,11
+SKU-10980,Furniture Item 980,Furniture,334.11,1242.8,59,17
+SKU-10981,Bedding Item 981,Bedding,21.9,26.0,2751,1480
+SKU-10982,Home Decor Item 982,Home Decor,29.16,71.32,4091,334
+SKU-10983,Kitchenware Item 983,Kitchenware,19.75,17.46,21,674
+SKU-10984,Furniture Item 984,Furniture,134.76,434.95,87,19
+SKU-10985,Home Decor Item 985,Home Decor,82.52,262.94,175,42
+SKU-10986,Gardening Item 986,Gardening,119.62,120.99,31,597
+SKU-10987,Gardening Item 987,Gardening,45.75,47.82,31,324
+SKU-10988,Gardening Item 988,Gardening,120.87,153.12,2231,976
+SKU-10989,Kitchenware Item 989,Kitchenware,42.98,47.62,4276,1302
+SKU-10990,Gardening Item 990,Gardening,90.87,274.9,159,81
+SKU-10991,Home Decor Item 991,Home Decor,133.87,167.79,2342,638
+SKU-10992,Furniture Item 992,Furniture,779.05,759.74,12,1135
+SKU-10993,Furniture Item 993,Furniture,541.54,677.77,2953,809
+SKU-10994,Kitchenware Item 994,Kitchenware,9.3,10.55,3927,611
+SKU-10995,Home Decor Item 995,Home Decor,33.04,67.42,2362,289
+SKU-10996,Gardening Item 996,Gardening,24.33,19.56,1,967
+SKU-10997,Furniture Item 997,Furniture,363.89,915.48,51,16
+SKU-10998,Furniture Item 998,Furniture,695.67,871.86,2253,1043
+SKU-10999,Home Decor Item 999,Home Decor,85.23,190.61,4891,565
+SKU-11000,Furniture Item 1000,Furniture,691.48,865.79,3798,915
+SKU-11001,Gardening Item 1001,Gardening,52.14,107.46,2876,210
+SKU-11002,Bedding Item 1002,Bedding,96.33,203.75,2244,436
+SKU-11003,Home Decor Item 1003,Home Decor,72.0,59.94,12,443
+SKU-11004,Home Decor Item 1004,Home Decor,148.01,119.19,30,708
+SKU-11005,Bedding Item 1005,Bedding,72.42,59.5,32,823
+SKU-11006,Home Decor Item 1006,Home Decor,137.85,154.97,5383,981
+SKU-11007,Furniture Item 1007,Furniture,626.0,516.33,13,721
+SKU-11008,Bedding Item 1008,Bedding,97.99,125.89,3223,806
+SKU-11009,Furniture Item 1009,Furniture,122.72,136.55,4446,1094
+SKU-11010,Gardening Item 1010,Gardening,38.49,36.98,30,1103
+SKU-11011,Kitchenware Item 1011,Kitchenware,23.23,27.57,6196,1072
+SKU-11012,Home Decor Item 1012,Home Decor,35.29,34.91,33,1071
+SKU-11013,Home Decor Item 1013,Home Decor,95.15,109.01,5099,1087
+SKU-11014,Bedding Item 1014,Bedding,51.99,60.88,4911,867
+SKU-11015,Gardening Item 1015,Gardening,18.03,63.32,219,99
+SKU-11016,Kitchenware Item 1016,Kitchenware,20.25,19.75,3,1135
+SKU-11017,Furniture Item 1017,Furniture,753.78,1377.07,3429,566
+SKU-11018,Gardening Item 1018,Gardening,82.03,77.56,25,666
+SKU-11019,Home Decor Item 1019,Home Decor,131.01,154.23,6573,919
+SKU-11020,Gardening Item 1020,Gardening,107.6,268.77,4064,787
+SKU-11021,Home Decor Item 1021,Home Decor,68.4,58.5,30,545
+SKU-11022,Home Decor Item 1022,Home Decor,18.71,17.36,15,444
+SKU-11023,Furniture Item 1023,Furniture,687.62,1917.77,94,71
+SKU-11024,Bedding Item 1024,Bedding,51.7,41.48,6,416
+SKU-11025,Bedding Item 1025,Bedding,62.62,57.25,9,596
+SKU-11026,Home Decor Item 1026,Home Decor,17.35,20.3,3381,627
+SKU-11027,Gardening Item 1027,Gardening,83.02,165.81,1880,284
+SKU-11028,Home Decor Item 1028,Home Decor,21.09,39.95,4129,678
+SKU-11029,Bedding Item 1029,Bedding,94.83,119.17,4194,1172
+SKU-11030,Home Decor Item 1030,Home Decor,116.66,116.43,28,1103
+SKU-11031,Furniture Item 1031,Furniture,275.61,1058.6,106,67
+SKU-11032,Gardening Item 1032,Gardening,96.11,78.1,22,785
+SKU-11033,Kitchenware Item 1033,Kitchenware,48.15,97.6,2553,256
+SKU-11034,Home Decor Item 1034,Home Decor,125.31,125.96,2,526
+SKU-11035,Kitchenware Item 1035,Kitchenware,25.14,20.51,37,735
+SKU-11036,Bedding Item 1036,Bedding,22.18,26.92,2372,1098
+SKU-11037,Kitchenware Item 1037,Kitchenware,5.28,5.12,18,417
+SKU-11038,Furniture Item 1038,Furniture,772.52,1959.16,66,11
+SKU-11039,Bedding Item 1039,Bedding,114.82,138.66,2757,580
+SKU-11040,Bedding Item 1040,Bedding,23.58,56.52,4992,403
+SKU-11041,Bedding Item 1041,Bedding,94.45,105.86,2306,1336
+SKU-11042,Furniture Item 1042,Furniture,163.39,499.4,259,97
+SKU-11043,Gardening Item 1043,Gardening,33.86,37.45,5406,764
+SKU-11044,Bedding Item 1044,Bedding,77.78,77.72,21,664
+SKU-11045,Bedding Item 1045,Bedding,108.77,234.2,3156,246
+SKU-11046,Gardening Item 1046,Gardening,11.27,36.85,173,55
+SKU-11047,Gardening Item 1047,Gardening,108.97,365.48,226,53
+SKU-11048,Furniture Item 1048,Furniture,360.43,715.0,2061,592
+SKU-11049,Gardening Item 1049,Gardening,110.54,273.12,2202,588
+SKU-11050,Bedding Item 1050,Bedding,106.62,108.99,24,493
+SKU-11051,Gardening Item 1051,Gardening,34.22,42.69,6911,1177
+SKU-11052,Bedding Item 1052,Bedding,125.05,252.71,2158,339
+SKU-11053,Furniture Item 1053,Furniture,324.51,757.64,2381,649
+SKU-11054,Furniture Item 1054,Furniture,465.75,1333.16,66,71
+SKU-11055,Kitchenware Item 1055,Kitchenware,37.22,120.74,296,43
+SKU-11056,Furniture Item 1056,Furniture,517.3,522.68,33,377
+SKU-11057,Furniture Item 1057,Furniture,392.17,484.5,4261,1062
+SKU-11058,Gardening Item 1058,Gardening,19.65,24.05,6752,875
+SKU-11059,Furniture Item 1059,Furniture,187.95,233.9,2324,1404
+SKU-11060,Gardening Item 1060,Gardening,81.28,201.86,4557,682
+SKU-11061,Gardening Item 1061,Gardening,72.22,84.01,2687,978
+SKU-11062,Bedding Item 1062,Bedding,70.51,168.62,1813,461
+SKU-11063,Kitchenware Item 1063,Kitchenware,13.23,16.41,3872,1260
+SKU-11064,Home Decor Item 1064,Home Decor,67.29,85.67,6266,1033
+SKU-11065,Gardening Item 1065,Gardening,123.63,160.32,6537,1080
+SKU-11066,Bedding Item 1066,Bedding,129.25,292.57,2848,467
+SKU-11067,Home Decor Item 1067,Home Decor,138.11,290.29,3087,372
+SKU-11068,Gardening Item 1068,Gardening,76.42,95.1,2522,616
+SKU-11069,Furniture Item 1069,Furniture,542.21,1377.54,249,80
+SKU-11070,Home Decor Item 1070,Home Decor,53.43,120.58,3463,663
+SKU-11071,Kitchenware Item 1071,Kitchenware,29.93,37.16,4373,590
+SKU-11072,Furniture Item 1072,Furniture,729.82,2529.46,128,81
+SKU-11073,Home Decor Item 1073,Home Decor,117.07,129.58,4180,665
+SKU-11074,Home Decor Item 1074,Home Decor,131.27,158.71,2831,1181
+SKU-11075,Gardening Item 1075,Gardening,106.83,88.22,32,657
+SKU-11076,Gardening Item 1076,Gardening,78.4,250.94,190,68
+SKU-11077,Home Decor Item 1077,Home Decor,100.94,96.55,19,1158
+SKU-11078,Furniture Item 1078,Furniture,535.06,616.4,3582,1049
+SKU-11079,Home Decor Item 1079,Home Decor,142.02,451.74,192,57
+SKU-11080,Gardening Item 1080,Gardening,113.03,128.19,6732,538
+SKU-11081,Bedding Item 1081,Bedding,74.96,77.41,28,396
+SKU-11082,Furniture Item 1082,Furniture,152.47,197.47,3125,1102
+SKU-11083,Bedding Item 1083,Bedding,125.06,409.11,242,44
+SKU-11084,Bedding Item 1084,Bedding,147.55,139.74,37,1002
+SKU-11085,Gardening Item 1085,Gardening,23.58,50.03,4580,780
+SKU-11086,Kitchenware Item 1086,Kitchenware,24.21,31.22,6284,613
+SKU-11087,Bedding Item 1087,Bedding,65.71,67.59,5,686
+SKU-11088,Furniture Item 1088,Furniture,563.27,543.87,20,529
+SKU-11089,Bedding Item 1089,Bedding,17.99,22.15,6366,756
+SKU-11090,Home Decor Item 1090,Home Decor,29.56,26.96,12,610
+SKU-11091,Gardening Item 1091,Gardening,20.78,67.55,215,71
+SKU-11092,Gardening Item 1092,Gardening,29.21,25.15,7,928
+SKU-11093,Home Decor Item 1093,Home Decor,45.6,165.97,134,29
+SKU-11094,Furniture Item 1094,Furniture,524.03,1739.62,142,24
+SKU-11095,Furniture Item 1095,Furniture,627.18,531.26,35,1185
+SKU-11096,Home Decor Item 1096,Home Decor,17.98,48.32,281,37
+SKU-11097,Home Decor Item 1097,Home Decor,55.74,72.41,4558,1472
+SKU-11098,Furniture Item 1098,Furniture,408.52,507.84,5291,720
+SKU-11099,Home Decor Item 1099,Home Decor,135.04,363.13,154,55
+SKU-11100,Furniture Item 1100,Furniture,573.34,469.77,0,725
+SKU-11101,Bedding Item 1101,Bedding,58.06,67.61,2636,1064
+SKU-11102,Furniture Item 1102,Furniture,149.55,386.5,51,46
+SKU-11103,Bedding Item 1103,Bedding,129.12,150.14,6032,1396
+SKU-11104,Home Decor Item 1104,Home Decor,14.68,54.07,288,64
+SKU-11105,Gardening Item 1105,Gardening,40.48,156.76,94,74
+SKU-11106,Furniture Item 1106,Furniture,631.28,1775.27,257,68
+SKU-11107,Kitchenware Item 1107,Kitchenware,16.4,15.92,14,1078
+SKU-11108,Kitchenware Item 1108,Kitchenware,38.97,50.1,3322,896
+SKU-11109,Furniture Item 1109,Furniture,101.63,102.47,22,338
+SKU-11110,Gardening Item 1110,Gardening,46.25,38.2,32,890
+SKU-11111,Furniture Item 1111,Furniture,734.89,1603.51,2667,227
+SKU-11112,Home Decor Item 1112,Home Decor,52.22,123.91,2135,235
+SKU-11113,Kitchenware Item 1113,Kitchenware,30.86,113.96,132,60
+SKU-11114,Gardening Item 1114,Gardening,112.71,94.87,35,591
+SKU-11115,Bedding Item 1115,Bedding,125.01,143.24,3557,1111
+SKU-11116,Bedding Item 1116,Bedding,98.02,111.2,6917,1284
+SKU-11117,Bedding Item 1117,Bedding,89.73,79.45,13,813
+SKU-11118,Bedding Item 1118,Bedding,10.96,13.56,6025,994
+SKU-11119,Gardening Item 1119,Gardening,121.8,292.31,3258,793
+SKU-11120,Bedding Item 1120,Bedding,98.29,123.1,5460,605
+SKU-11121,Furniture Item 1121,Furniture,758.35,725.0,8,399
+SKU-11122,Furniture Item 1122,Furniture,287.6,255.21,13,689
+SKU-11123,Furniture Item 1123,Furniture,119.69,142.61,4129,1444
+SKU-11124,Bedding Item 1124,Bedding,135.74,122.34,2,361
+SKU-11125,Furniture Item 1125,Furniture,175.22,427.32,2745,731
+SKU-11126,Furniture Item 1126,Furniture,104.93,90.9,12,761
+SKU-11127,Kitchenware Item 1127,Kitchenware,48.45,48.39,33,673
+SKU-11128,Home Decor Item 1128,Home Decor,146.84,144.43,31,878
+SKU-11129,Furniture Item 1129,Furniture,290.2,238.87,29,685
+SKU-11130,Gardening Item 1130,Gardening,98.16,125.76,3164,1174
+SKU-11131,Kitchenware Item 1131,Kitchenware,5.83,10.99,1171,246
+SKU-11132,Furniture Item 1132,Furniture,270.6,301.07,2057,829
+SKU-11133,Gardening Item 1133,Gardening,60.51,49.48,29,753
+SKU-11134,Gardening Item 1134,Gardening,149.47,176.09,2810,1316
+SKU-11135,Furniture Item 1135,Furniture,669.53,641.07,10,957
+SKU-11136,Home Decor Item 1136,Home Decor,97.75,235.72,1555,690
+SKU-11137,Home Decor Item 1137,Home Decor,54.8,215.85,106,29
+SKU-11138,Kitchenware Item 1138,Kitchenware,34.9,39.39,5967,1226
+SKU-11139,Gardening Item 1139,Gardening,12.8,42.07,239,59
+SKU-11140,Furniture Item 1140,Furniture,625.38,569.52,32,908
+SKU-11141,Furniture Item 1141,Furniture,224.52,275.17,4153,1464
+SKU-11142,Kitchenware Item 1142,Kitchenware,23.7,29.25,5483,1290
+SKU-11143,Kitchenware Item 1143,Kitchenware,26.96,34.57,2797,1216
+SKU-11144,Kitchenware Item 1144,Kitchenware,26.61,30.82,4469,1145
+SKU-11145,Furniture Item 1145,Furniture,415.79,407.4,26,1141
+SKU-11146,Kitchenware Item 1146,Kitchenware,25.88,30.2,3997,1273
+SKU-11147,Furniture Item 1147,Furniture,473.14,1820.64,71,57
+SKU-11148,Furniture Item 1148,Furniture,750.95,942.9,3417,750
+SKU-11149,Kitchenware Item 1149,Kitchenware,12.41,15.96,6876,685
+SKU-11150,Furniture Item 1150,Furniture,187.66,238.52,4679,1258
+SKU-11151,Kitchenware Item 1151,Kitchenware,37.17,42.19,2328,632
+SKU-11152,Gardening Item 1152,Gardening,44.36,46.28,4,903
+SKU-11153,Home Decor Item 1153,Home Decor,134.95,245.23,2153,223
+SKU-11154,Gardening Item 1154,Gardening,84.66,72.79,28,954
+SKU-11155,Bedding Item 1155,Bedding,38.95,39.72,15,491
+SKU-11156,Gardening Item 1156,Gardening,57.39,137.78,3213,431
+SKU-11157,Furniture Item 1157,Furniture,786.18,2002.62,74,62
+SKU-11158,Gardening Item 1158,Gardening,98.63,97.89,37,1060
+SKU-11159,Kitchenware Item 1159,Kitchenware,23.02,21.41,5,855
+SKU-11160,Bedding Item 1160,Bedding,21.29,56.03,172,12
+SKU-11161,Bedding Item 1161,Bedding,123.92,156.27,4349,657
+SKU-11162,Home Decor Item 1162,Home Decor,50.48,47.55,34,1027
+SKU-11163,Kitchenware Item 1163,Kitchenware,17.31,20.78,2030,876
+SKU-11164,Furniture Item 1164,Furniture,590.95,1339.2,4073,732
+SKU-11165,Furniture Item 1165,Furniture,109.3,390.25,142,70
+SKU-11166,Bedding Item 1166,Bedding,105.82,297.92,209,50
+SKU-11167,Kitchenware Item 1167,Kitchenware,41.87,159.45,54,21
+SKU-11168,Kitchenware Item 1168,Kitchenware,8.77,22.89,143,31
+SKU-11169,Home Decor Item 1169,Home Decor,14.39,35.76,4963,614
+SKU-11170,Home Decor Item 1170,Home Decor,73.69,68.55,7,511
+SKU-11171,Bedding Item 1171,Bedding,124.1,160.42,2550,755
+SKU-11172,Bedding Item 1172,Bedding,28.05,29.17,12,826
+SKU-11173,Bedding Item 1173,Bedding,23.53,29.47,6264,1477
+SKU-11174,Kitchenware Item 1174,Kitchenware,22.33,25.13,6548,1027
+SKU-11175,Gardening Item 1175,Gardening,32.52,32.95,22,378
+SKU-11176,Kitchenware Item 1176,Kitchenware,8.55,18.47,4350,385
+SKU-11177,Home Decor Item 1177,Home Decor,65.19,57.71,38,765
+SKU-11178,Kitchenware Item 1178,Kitchenware,42.44,54.61,2928,1449
+SKU-11179,Kitchenware Item 1179,Kitchenware,46.3,43.15,36,1007
+SKU-11180,Furniture Item 1180,Furniture,267.19,265.75,26,744
+SKU-11181,Home Decor Item 1181,Home Decor,72.63,84.59,3030,515
+SKU-11182,Bedding Item 1182,Bedding,51.79,158.79,220,26
+SKU-11183,Kitchenware Item 1183,Kitchenware,27.39,30.55,3089,936
+SKU-11184,Home Decor Item 1184,Home Decor,43.26,50.51,6198,1268
+SKU-11185,Home Decor Item 1185,Home Decor,38.7,35.43,14,420
+SKU-11186,Furniture Item 1186,Furniture,712.08,844.37,4681,814
+SKU-11187,Home Decor Item 1187,Home Decor,27.73,54.46,3279,641
+SKU-11188,Home Decor Item 1188,Home Decor,91.66,74.12,31,1177
+SKU-11189,Furniture Item 1189,Furniture,740.29,819.95,6415,681
+SKU-11190,Furniture Item 1190,Furniture,469.65,516.98,4907,1458
+SKU-11191,Gardening Item 1191,Gardening,122.32,120.1,35,702
+SKU-11192,Bedding Item 1192,Bedding,92.34,335.6,214,35
+SKU-11193,Bedding Item 1193,Bedding,12.52,28.67,1387,365
+SKU-11194,Gardening Item 1194,Gardening,122.26,158.47,3527,1147
+SKU-11195,Home Decor Item 1195,Home Decor,26.52,24.45,13,782
+SKU-11196,Gardening Item 1196,Gardening,91.17,327.04,230,65
+SKU-11197,Bedding Item 1197,Bedding,105.2,136.66,5242,1059
+SKU-11198,Home Decor Item 1198,Home Decor,31.67,39.46,6913,568
+SKU-11199,Bedding Item 1199,Bedding,18.63,22.61,6466,1160
+SKU-11200,Furniture Item 1200,Furniture,311.84,346.42,4800,1054
+SKU-11201,Furniture Item 1201,Furniture,719.89,1381.88,1395,436
+SKU-11202,Furniture Item 1202,Furniture,323.17,1049.88,130,37
+SKU-11203,Bedding Item 1203,Bedding,43.75,87.85,4397,461
+SKU-11204,Gardening Item 1204,Gardening,30.39,85.04,73,49
+SKU-11205,Gardening Item 1205,Gardening,99.41,237.55,3321,512
+SKU-11206,Gardening Item 1206,Gardening,20.15,20.63,22,769
+SKU-11207,Furniture Item 1207,Furniture,163.29,150.38,27,505
+SKU-11208,Furniture Item 1208,Furniture,652.26,1751.31,167,81
+SKU-11209,Bedding Item 1209,Bedding,59.1,49.55,33,402
+SKU-11210,Furniture Item 1210,Furniture,205.99,174.59,39,489
+SKU-11211,Bedding Item 1211,Bedding,16.61,41.37,1485,563
+SKU-11212,Kitchenware Item 1212,Kitchenware,31.04,28.72,2,666
+SKU-11213,Furniture Item 1213,Furniture,780.46,1760.32,3427,670
+SKU-11214,Home Decor Item 1214,Home Decor,40.17,50.14,6498,803
+SKU-11215,Gardening Item 1215,Gardening,94.94,171.59,1233,789
+SKU-11216,Bedding Item 1216,Bedding,87.96,77.79,14,915
+SKU-11217,Furniture Item 1217,Furniture,380.23,1329.0,77,87
+SKU-11218,Kitchenware Item 1218,Kitchenware,44.73,50.9,3794,965
+SKU-11219,Gardening Item 1219,Gardening,136.42,254.86,4845,420
+SKU-11220,Gardening Item 1220,Gardening,59.0,53.88,1,1013
+SKU-11221,Furniture Item 1221,Furniture,773.13,781.57,32,535
+SKU-11222,Home Decor Item 1222,Home Decor,88.77,80.88,32,1099
+SKU-11223,Home Decor Item 1223,Home Decor,24.35,77.39,91,96
+SKU-11224,Gardening Item 1224,Gardening,145.02,141.33,19,622
+SKU-11225,Bedding Item 1225,Bedding,104.09,91.38,33,950
+SKU-11226,Gardening Item 1226,Gardening,98.37,207.57,2159,418
+SKU-11227,Bedding Item 1227,Bedding,61.43,231.76,285,42
+SKU-11228,Bedding Item 1228,Bedding,111.98,144.08,3824,1488
+SKU-11229,Home Decor Item 1229,Home Decor,90.81,320.32,59,22
+SKU-11230,Kitchenware Item 1230,Kitchenware,8.45,9.62,3415,868
+SKU-11231,Kitchenware Item 1231,Kitchenware,23.39,26.84,2920,716
+SKU-11232,Gardening Item 1232,Gardening,64.09,73.62,4100,1498
+SKU-11233,Kitchenware Item 1233,Kitchenware,13.55,16.7,2797,1302
+SKU-11234,Home Decor Item 1234,Home Decor,104.08,325.42,136,89
+SKU-11235,Home Decor Item 1235,Home Decor,147.2,588.66,142,21
+SKU-11236,Gardening Item 1236,Gardening,89.69,83.87,25,532
+SKU-11237,Furniture Item 1237,Furniture,761.51,2872.97,85,53
+SKU-11238,Kitchenware Item 1238,Kitchenware,29.37,99.08,163,36
+SKU-11239,Kitchenware Item 1239,Kitchenware,42.36,118.14,250,23
+SKU-11240,Gardening Item 1240,Gardening,83.61,86.7,30,1189
+SKU-11241,Gardening Item 1241,Gardening,24.87,45.26,4370,298
+SKU-11242,Gardening Item 1242,Gardening,148.86,180.56,5190,881
+SKU-11243,Kitchenware Item 1243,Kitchenware,37.73,150.38,130,36
+SKU-11244,Bedding Item 1244,Bedding,129.97,480.18,172,29
+SKU-11245,Kitchenware Item 1245,Kitchenware,34.72,103.17,185,62
+SKU-11246,Home Decor Item 1246,Home Decor,141.7,275.41,4883,702
+SKU-11247,Kitchenware Item 1247,Kitchenware,10.65,12.54,4735,1356
+SKU-11248,Furniture Item 1248,Furniture,658.14,785.19,2235,662
+SKU-11249,Furniture Item 1249,Furniture,283.59,353.36,3341,1155
+SKU-11250,Kitchenware Item 1250,Kitchenware,17.07,61.5,135,19
+SKU-11251,Kitchenware Item 1251,Kitchenware,28.18,26.44,19,948
+SKU-11252,Furniture Item 1252,Furniture,188.3,672.31,95,17
+SKU-11253,Gardening Item 1253,Gardening,101.95,222.0,2316,530
+SKU-11254,Kitchenware Item 1254,Kitchenware,7.86,20.24,83,71
+SKU-11255,Kitchenware Item 1255,Kitchenware,37.46,48.56,3441,627
+SKU-11256,Bedding Item 1256,Bedding,133.65,134.03,34,344
+SKU-11257,Bedding Item 1257,Bedding,59.93,75.1,4224,1482
+SKU-11258,Furniture Item 1258,Furniture,414.36,409.57,33,956
+SKU-11259,Bedding Item 1259,Bedding,27.76,84.39,131,73
+SKU-11260,Gardening Item 1260,Gardening,145.86,359.6,4311,494
+SKU-11261,Kitchenware Item 1261,Kitchenware,17.46,36.46,1838,328
+SKU-11262,Kitchenware Item 1262,Kitchenware,48.47,101.2,1535,433
+SKU-11263,Kitchenware Item 1263,Kitchenware,48.33,155.23,248,20
+SKU-11264,Kitchenware Item 1264,Kitchenware,8.81,8.28,35,952
+SKU-11265,Gardening Item 1265,Gardening,105.64,254.8,2103,489
+SKU-11266,Gardening Item 1266,Gardening,81.19,101.44,4956,858
+SKU-11267,Kitchenware Item 1267,Kitchenware,12.01,14.34,3866,515
+SKU-11268,Home Decor Item 1268,Home Decor,137.09,112.41,18,376
+SKU-11269,Home Decor Item 1269,Home Decor,87.65,77.26,23,837
+SKU-11270,Kitchenware Item 1270,Kitchenware,16.27,42.16,206,75
+SKU-11271,Gardening Item 1271,Gardening,97.28,86.0,36,1097
+SKU-11272,Kitchenware Item 1272,Kitchenware,8.88,25.39,164,19
+SKU-11273,Bedding Item 1273,Bedding,115.04,140.02,4916,551
+SKU-11274,Gardening Item 1274,Gardening,116.54,109.37,26,1177
+SKU-11275,Home Decor Item 1275,Home Decor,49.65,43.74,16,452
+SKU-11276,Furniture Item 1276,Furniture,503.86,1195.71,2699,317
+SKU-11277,Home Decor Item 1277,Home Decor,57.76,46.29,38,569
+SKU-11278,Bedding Item 1278,Bedding,99.16,80.81,15,712
+SKU-11279,Bedding Item 1279,Bedding,139.58,546.16,68,88
+SKU-11280,Bedding Item 1280,Bedding,80.25,89.07,4188,1229
+SKU-11281,Home Decor Item 1281,Home Decor,120.67,147.61,6846,868
+SKU-11282,Gardening Item 1282,Gardening,48.12,112.53,2179,600
+SKU-11283,Kitchenware Item 1283,Kitchenware,29.78,27.7,10,1037
+SKU-11284,Furniture Item 1284,Furniture,280.87,290.46,35,854
+SKU-11285,Gardening Item 1285,Gardening,116.97,144.41,2133,933
+SKU-11286,Kitchenware Item 1286,Kitchenware,13.99,17.41,6039,675
+SKU-11287,Home Decor Item 1287,Home Decor,101.26,101.73,0,847
+SKU-11288,Furniture Item 1288,Furniture,665.48,2405.68,219,80
+SKU-11289,Gardening Item 1289,Gardening,124.49,409.2,190,67
+SKU-11290,Kitchenware Item 1290,Kitchenware,45.81,142.49,282,11
+SKU-11291,Gardening Item 1291,Gardening,94.28,273.55,105,24
+SKU-11292,Home Decor Item 1292,Home Decor,135.8,115.37,6,893
+SKU-11293,Bedding Item 1293,Bedding,67.22,77.32,3066,1433
+SKU-11294,Furniture Item 1294,Furniture,610.59,1931.16,169,11
+SKU-11295,Home Decor Item 1295,Home Decor,114.5,93.69,23,695
+SKU-11296,Bedding Item 1296,Bedding,31.28,70.45,1864,491
+SKU-11297,Home Decor Item 1297,Home Decor,15.83,15.07,12,1016
+SKU-11298,Furniture Item 1298,Furniture,130.4,163.07,5568,662
+SKU-11299,Gardening Item 1299,Gardening,82.38,252.0,103,37
+SKU-11300,Home Decor Item 1300,Home Decor,86.09,203.35,4258,630
+SKU-11301,Furniture Item 1301,Furniture,662.25,2370.43,209,10
+SKU-11302,Home Decor Item 1302,Home Decor,123.24,136.18,2669,1466
+SKU-11303,Bedding Item 1303,Bedding,41.81,52.83,2109,1084
+SKU-11304,Bedding Item 1304,Bedding,86.31,259.7,217,18
+SKU-11305,Kitchenware Item 1305,Kitchenware,24.74,31.45,2873,1212
+SKU-11306,Gardening Item 1306,Gardening,108.75,125.96,4511,1396
+SKU-11307,Gardening Item 1307,Gardening,20.57,16.64,36,491
+SKU-11308,Furniture Item 1308,Furniture,650.61,1609.01,1380,438
+SKU-11309,Bedding Item 1309,Bedding,10.57,21.59,3249,236
+SKU-11310,Bedding Item 1310,Bedding,109.23,214.82,3812,375
+SKU-11311,Kitchenware Item 1311,Kitchenware,39.39,40.0,34,936
+SKU-11312,Furniture Item 1312,Furniture,796.19,2883.34,237,66
+SKU-11313,Home Decor Item 1313,Home Decor,50.24,169.85,90,65
+SKU-11314,Bedding Item 1314,Bedding,72.94,76.57,33,359
+SKU-11315,Home Decor Item 1315,Home Decor,49.26,90.9,1581,368
+SKU-11316,Home Decor Item 1316,Home Decor,88.37,337.75,294,35
+SKU-11317,Bedding Item 1317,Bedding,25.8,21.7,15,1118
+SKU-11318,Furniture Item 1318,Furniture,110.52,124.62,3129,1268
+SKU-11319,Home Decor Item 1319,Home Decor,80.44,101.0,5209,1045
+SKU-11320,Bedding Item 1320,Bedding,130.66,488.53,280,63
+SKU-11321,Bedding Item 1321,Bedding,65.79,75.78,6687,1039
+SKU-11322,Home Decor Item 1322,Home Decor,23.73,79.95,190,37
+SKU-11323,Furniture Item 1323,Furniture,355.66,1315.78,113,82
+SKU-11324,Furniture Item 1324,Furniture,676.99,2478.45,227,39
+SKU-11325,Kitchenware Item 1325,Kitchenware,34.99,29.14,1,431
+SKU-11326,Bedding Item 1326,Bedding,140.55,140.88,8,759
+SKU-11327,Furniture Item 1327,Furniture,752.49,642.49,21,429
+SKU-11328,Furniture Item 1328,Furniture,462.32,963.24,3048,631
+SKU-11329,Furniture Item 1329,Furniture,162.31,633.44,57,78
+SKU-11330,Furniture Item 1330,Furniture,373.2,713.4,2162,475
+SKU-11331,Bedding Item 1331,Bedding,138.06,320.54,3889,400
+SKU-11332,Gardening Item 1332,Gardening,127.24,150.18,4492,1207
+SKU-11333,Furniture Item 1333,Furniture,402.34,505.45,4322,1252
+SKU-11334,Home Decor Item 1334,Home Decor,97.91,120.03,5175,1210
+SKU-11335,Furniture Item 1335,Furniture,258.31,211.66,30,980
+SKU-11336,Bedding Item 1336,Bedding,52.47,63.78,3729,1167
+SKU-11337,Home Decor Item 1337,Home Decor,80.43,163.71,3132,681
+SKU-11338,Gardening Item 1338,Gardening,70.85,151.63,4167,577
+SKU-11339,Bedding Item 1339,Bedding,14.17,28.7,1329,581
+SKU-11340,Furniture Item 1340,Furniture,103.42,92.0,11,763
+SKU-11341,Gardening Item 1341,Gardening,81.4,97.54,3293,809
+SKU-11342,Furniture Item 1342,Furniture,180.78,163.69,17,552
+SKU-11343,Gardening Item 1343,Gardening,130.24,376.88,52,95
+SKU-11344,Kitchenware Item 1344,Kitchenware,17.33,15.96,8,976
+SKU-11345,Gardening Item 1345,Gardening,139.78,385.67,159,17
+SKU-11346,Bedding Item 1346,Bedding,137.52,511.32,96,57
+SKU-11347,Gardening Item 1347,Gardening,39.44,131.1,117,82
+SKU-11348,Bedding Item 1348,Bedding,100.88,300.71,203,86
+SKU-11349,Bedding Item 1349,Bedding,32.25,68.78,3928,641
+SKU-11350,Bedding Item 1350,Bedding,117.28,136.18,2981,1212
+SKU-11351,Kitchenware Item 1351,Kitchenware,29.2,64.13,4214,351
+SKU-11352,Home Decor Item 1352,Home Decor,109.53,108.23,15,523
+SKU-11353,Gardening Item 1353,Gardening,72.55,175.66,2291,533
+SKU-11354,Gardening Item 1354,Gardening,104.82,109.25,32,631
+SKU-11355,Furniture Item 1355,Furniture,308.71,750.77,2741,662
+SKU-11356,Bedding Item 1356,Bedding,20.59,64.24,223,53
+SKU-11357,Gardening Item 1357,Gardening,33.45,41.95,3587,812
+SKU-11358,Gardening Item 1358,Gardening,37.18,112.61,121,82
+SKU-11359,Furniture Item 1359,Furniture,430.8,431.32,24,545
+SKU-11360,Home Decor Item 1360,Home Decor,142.57,176.61,4709,809
+SKU-11361,Bedding Item 1361,Bedding,91.16,324.42,116,74
+SKU-11362,Gardening Item 1362,Gardening,102.59,128.58,6228,556
+SKU-11363,Home Decor Item 1363,Home Decor,58.46,56.64,11,942
+SKU-11364,Kitchenware Item 1364,Kitchenware,41.27,51.24,4689,1262
+SKU-11365,Home Decor Item 1365,Home Decor,15.1,13.43,26,351
+SKU-11366,Kitchenware Item 1366,Kitchenware,29.78,29.04,8,1122
+SKU-11367,Home Decor Item 1367,Home Decor,20.68,18.53,3,719
+SKU-11368,Gardening Item 1368,Gardening,103.34,126.82,6243,864
+SKU-11369,Bedding Item 1369,Bedding,130.88,119.38,29,528
+SKU-11370,Bedding Item 1370,Bedding,47.24,163.89,60,59
+SKU-11371,Kitchenware Item 1371,Kitchenware,35.97,30.62,13,580
+SKU-11372,Gardening Item 1372,Gardening,132.96,425.67,276,18
+SKU-11373,Furniture Item 1373,Furniture,721.49,851.93,2256,844
+SKU-11374,Furniture Item 1374,Furniture,298.62,336.31,3244,682
+SKU-11375,Gardening Item 1375,Gardening,64.33,73.12,4121,996
+SKU-11376,Bedding Item 1376,Bedding,12.72,10.76,28,683
+SKU-11377,Kitchenware Item 1377,Kitchenware,30.05,25.98,22,1183
+SKU-11378,Home Decor Item 1378,Home Decor,77.79,263.32,201,20
+SKU-11379,Gardening Item 1379,Gardening,49.62,92.47,3458,251
+SKU-11380,Bedding Item 1380,Bedding,73.32,162.39,4721,409
+SKU-11381,Kitchenware Item 1381,Kitchenware,48.55,62.71,2973,1341
+SKU-11382,Bedding Item 1382,Bedding,53.78,61.79,2104,995
+SKU-11383,Home Decor Item 1383,Home Decor,68.23,61.54,2,762
+SKU-11384,Home Decor Item 1384,Home Decor,82.4,72.65,3,1042
+SKU-11385,Furniture Item 1385,Furniture,590.71,1113.92,1108,634
+SKU-11386,Furniture Item 1386,Furniture,157.7,137.13,21,873
+SKU-11387,Furniture Item 1387,Furniture,761.59,862.45,2029,787
+SKU-11388,Furniture Item 1388,Furniture,742.43,1684.08,2822,468
+SKU-11389,Furniture Item 1389,Furniture,762.04,1676.6,2855,679
+SKU-11390,Kitchenware Item 1390,Kitchenware,37.4,34.65,5,652
+SKU-11391,Bedding Item 1391,Bedding,101.79,130.09,5028,691
+SKU-11392,Gardening Item 1392,Gardening,82.57,95.57,2243,967
+SKU-11393,Furniture Item 1393,Furniture,149.07,142.03,8,608
+SKU-11394,Gardening Item 1394,Gardening,74.16,94.99,3879,798
+SKU-11395,Bedding Item 1395,Bedding,58.48,48.26,18,984
+SKU-11396,Bedding Item 1396,Bedding,101.36,116.24,2924,543
+SKU-11397,Home Decor Item 1397,Home Decor,119.21,109.62,9,622
+SKU-11398,Furniture Item 1398,Furniture,365.95,1416.87,75,36
+SKU-11399,Kitchenware Item 1399,Kitchenware,39.08,39.93,38,1007
+SKU-11400,Kitchenware Item 1400,Kitchenware,15.11,19.48,2549,1067
+SKU-11401,Furniture Item 1401,Furniture,712.49,1748.31,2712,460
+SKU-11402,Gardening Item 1402,Gardening,63.64,65.27,23,322
+SKU-11403,Home Decor Item 1403,Home Decor,81.28,152.19,2891,524
+SKU-11404,Kitchenware Item 1404,Kitchenware,9.55,23.52,4118,212
+SKU-11405,Gardening Item 1405,Gardening,85.71,89.39,27,372
+SKU-11406,Furniture Item 1406,Furniture,177.01,166.46,17,1160
+SKU-11407,Bedding Item 1407,Bedding,49.86,45.79,27,1198
+SKU-11408,Furniture Item 1408,Furniture,627.58,644.14,13,1010
+SKU-11409,Bedding Item 1409,Bedding,84.47,104.21,4781,1458
+SKU-11410,Furniture Item 1410,Furniture,218.39,279.71,3901,573
+SKU-11411,Gardening Item 1411,Gardening,87.33,217.28,3670,732
+SKU-11412,Home Decor Item 1412,Home Decor,119.99,148.07,6480,704
+SKU-11413,Home Decor Item 1413,Home Decor,36.81,43.1,2639,824
+SKU-11414,Furniture Item 1414,Furniture,774.74,1971.41,248,83
+SKU-11415,Furniture Item 1415,Furniture,561.91,729.65,2256,1300
+SKU-11416,Kitchenware Item 1416,Kitchenware,7.41,16.08,2440,357
+SKU-11417,Kitchenware Item 1417,Kitchenware,29.52,37.45,6151,568
+SKU-11418,Kitchenware Item 1418,Kitchenware,7.89,31.31,283,58
+SKU-11419,Gardening Item 1419,Gardening,78.25,88.09,5912,1455
+SKU-11420,Bedding Item 1420,Bedding,62.3,241.12,237,12
+SKU-11421,Gardening Item 1421,Gardening,51.66,53.81,36,570
+SKU-11422,Kitchenware Item 1422,Kitchenware,18.65,23.01,6325,1203
+SKU-11423,Furniture Item 1423,Furniture,409.92,351.77,21,681
+SKU-11424,Kitchenware Item 1424,Kitchenware,23.12,26.33,5890,573
+SKU-11425,Home Decor Item 1425,Home Decor,113.34,249.73,3861,359
+SKU-11426,Kitchenware Item 1426,Kitchenware,13.48,27.58,4900,657
+SKU-11427,Bedding Item 1427,Bedding,47.59,129.16,208,93
+SKU-11428,Bedding Item 1428,Bedding,126.16,151.71,6112,1425
+SKU-11429,Gardening Item 1429,Gardening,73.69,92.52,3578,1294
+SKU-11430,Home Decor Item 1430,Home Decor,100.41,219.0,2359,346
+SKU-11431,Furniture Item 1431,Furniture,223.26,203.94,27,1167
+SKU-11432,Gardening Item 1432,Gardening,128.94,145.81,3189,1148
+SKU-11433,Home Decor Item 1433,Home Decor,82.05,186.42,3426,563
+SKU-11434,Gardening Item 1434,Gardening,69.16,77.16,4384,694
+SKU-11435,Bedding Item 1435,Bedding,45.14,142.03,260,95
+SKU-11436,Furniture Item 1436,Furniture,688.94,2058.63,291,42
+SKU-11437,Gardening Item 1437,Gardening,50.08,56.92,6092,993
+SKU-11438,Bedding Item 1438,Bedding,113.45,116.15,16,433
+SKU-11439,Gardening Item 1439,Gardening,44.99,85.72,3654,765
+SKU-11440,Home Decor Item 1440,Home Decor,91.91,363.6,52,64
+SKU-11441,Kitchenware Item 1441,Kitchenware,31.87,37.33,6406,756
+SKU-11442,Home Decor Item 1442,Home Decor,52.68,155.77,220,53
+SKU-11443,Furniture Item 1443,Furniture,531.38,626.0,5139,1448
+SKU-11444,Bedding Item 1444,Bedding,75.68,84.09,3986,683
+SKU-11445,Furniture Item 1445,Furniture,251.29,489.32,3233,691
+SKU-11446,Kitchenware Item 1446,Kitchenware,45.35,49.94,4332,599
+SKU-11447,Home Decor Item 1447,Home Decor,137.66,136.06,13,716
+SKU-11448,Gardening Item 1448,Gardening,127.93,123.16,3,470
+SKU-11449,Home Decor Item 1449,Home Decor,134.97,161.88,6695,1040
+SKU-11450,Bedding Item 1450,Bedding,147.72,154.97,18,1089
+SKU-11451,Kitchenware Item 1451,Kitchenware,46.12,55.88,6239,1497
+SKU-11452,Kitchenware Item 1452,Kitchenware,42.55,37.59,38,1096
+SKU-11453,Home Decor Item 1453,Home Decor,15.37,14.54,24,1164
+SKU-11454,Home Decor Item 1454,Home Decor,129.54,312.21,2576,586
+SKU-11455,Gardening Item 1455,Gardening,58.02,107.72,4483,447
+SKU-11456,Home Decor Item 1456,Home Decor,144.1,119.22,6,769
+SKU-11457,Home Decor Item 1457,Home Decor,57.16,161.14,195,62
+SKU-11458,Kitchenware Item 1458,Kitchenware,43.26,51.09,4503,631
+SKU-11459,Furniture Item 1459,Furniture,780.06,893.21,3505,1396
+SKU-11460,Bedding Item 1460,Bedding,45.51,46.99,32,1087
+SKU-11461,Home Decor Item 1461,Home Decor,79.14,75.37,25,361
+SKU-11462,Bedding Item 1462,Bedding,86.9,70.74,8,414
+SKU-11463,Furniture Item 1463,Furniture,454.07,1769.33,265,12
+SKU-11464,Furniture Item 1464,Furniture,509.76,1601.3,190,30
+SKU-11465,Gardening Item 1465,Gardening,127.03,303.39,1416,711
+SKU-11466,Home Decor Item 1466,Home Decor,120.47,152.53,2809,1292
+SKU-11467,Kitchenware Item 1467,Kitchenware,44.37,46.47,19,789
+SKU-11468,Home Decor Item 1468,Home Decor,16.54,17.12,37,383
+SKU-11469,Gardening Item 1469,Gardening,24.74,86.41,233,17
+SKU-11470,Kitchenware Item 1470,Kitchenware,33.38,38.27,6268,1139
+SKU-11471,Furniture Item 1471,Furniture,675.07,1268.72,2060,230
+SKU-11472,Home Decor Item 1472,Home Decor,135.17,117.43,31,999
+SKU-11473,Furniture Item 1473,Furniture,357.02,1271.01,63,89
+SKU-11474,Bedding Item 1474,Bedding,91.31,87.44,15,396
+SKU-11475,Gardening Item 1475,Gardening,65.21,149.58,1456,207
+SKU-11476,Furniture Item 1476,Furniture,677.24,1888.16,253,64
+SKU-11477,Home Decor Item 1477,Home Decor,111.49,113.91,17,737
+SKU-11478,Home Decor Item 1478,Home Decor,62.4,72.15,4553,1179
+SKU-11479,Gardening Item 1479,Gardening,34.74,134.48,82,66
+SKU-11480,Kitchenware Item 1480,Kitchenware,14.5,18.53,3854,659
+SKU-11481,Gardening Item 1481,Gardening,15.47,55.95,125,73
+SKU-11482,Gardening Item 1482,Gardening,71.32,58.71,4,1070
+SKU-11483,Gardening Item 1483,Gardening,58.62,224.78,233,91
+SKU-11484,Furniture Item 1484,Furniture,178.87,609.03,222,55
+SKU-11485,Gardening Item 1485,Gardening,127.3,112.24,38,536
+SKU-11486,Home Decor Item 1486,Home Decor,17.89,44.4,3520,752
+SKU-11487,Furniture Item 1487,Furniture,349.04,428.64,6863,1385
+SKU-11488,Bedding Item 1488,Bedding,77.69,202.65,273,95
+SKU-11489,Gardening Item 1489,Gardening,123.72,104.85,16,672
+SKU-11490,Home Decor Item 1490,Home Decor,110.98,202.74,1253,710
+SKU-11491,Home Decor Item 1491,Home Decor,51.86,59.93,5333,707
+SKU-11492,Home Decor Item 1492,Home Decor,106.99,106.05,14,587
+SKU-11493,Home Decor Item 1493,Home Decor,55.12,51.23,17,453
+SKU-11494,Furniture Item 1494,Furniture,624.52,541.29,12,787
+SKU-11495,Gardening Item 1495,Gardening,34.14,110.06,64,39
+SKU-11496,Furniture Item 1496,Furniture,623.06,774.96,6581,912
+SKU-11497,Furniture Item 1497,Furniture,616.85,1366.37,1258,342
+SKU-11498,Kitchenware Item 1498,Kitchenware,35.52,45.44,6185,980
+SKU-11499,Bedding Item 1499,Bedding,109.58,246.69,2613,303
+SKU-11500,Bedding Item 1500,Bedding,121.41,152.05,3589,1222
+SKU-11501,Kitchenware Item 1501,Kitchenware,6.5,7.52,3339,1341
+SKU-11502,Home Decor Item 1502,Home Decor,30.24,94.92,243,86
+SKU-11503,Gardening Item 1503,Gardening,87.57,72.45,39,1179
+SKU-11504,Home Decor Item 1504,Home Decor,139.97,293.54,3742,382
+SKU-11505,Gardening Item 1505,Gardening,85.93,338.53,117,18
+SKU-11506,Furniture Item 1506,Furniture,339.1,315.06,20,702
+SKU-11507,Bedding Item 1507,Bedding,91.18,174.58,2835,422
+SKU-11508,Gardening Item 1508,Gardening,74.87,192.4,74,70
+SKU-11509,Furniture Item 1509,Furniture,744.99,1699.84,4659,454
+SKU-11510,Bedding Item 1510,Bedding,82.72,239.3,223,70
+SKU-11511,Furniture Item 1511,Furniture,724.27,1344.73,1526,468
+SKU-11512,Gardening Item 1512,Gardening,109.87,361.65,66,31
+SKU-11513,Gardening Item 1513,Gardening,24.41,24.77,28,1096
+SKU-11514,Home Decor Item 1514,Home Decor,56.79,127.29,3514,340
+SKU-11515,Furniture Item 1515,Furniture,418.85,941.12,3328,630
+SKU-11516,Gardening Item 1516,Gardening,129.34,436.15,70,28
+SKU-11517,Home Decor Item 1517,Home Decor,40.7,52.38,3538,1238
+SKU-11518,Bedding Item 1518,Bedding,141.16,272.52,4435,680
+SKU-11519,Home Decor Item 1519,Home Decor,148.09,166.07,4372,1359
+SKU-11520,Bedding Item 1520,Bedding,129.64,148.81,6962,1242
+SKU-11521,Kitchenware Item 1521,Kitchenware,32.68,37.45,6312,1368
+SKU-11522,Gardening Item 1522,Gardening,45.49,47.23,31,1037
+SKU-11523,Furniture Item 1523,Furniture,489.71,507.35,11,616
+SKU-11524,Bedding Item 1524,Bedding,88.5,167.07,1159,701
+SKU-11525,Home Decor Item 1525,Home Decor,32.16,39.83,5157,900
+SKU-11526,Kitchenware Item 1526,Kitchenware,30.57,34.44,5746,1451
+SKU-11527,Home Decor Item 1527,Home Decor,96.04,77.63,15,1112
+SKU-11528,Bedding Item 1528,Bedding,26.57,97.92,184,49
+SKU-11529,Gardening Item 1529,Gardening,79.39,93.81,3391,731
+SKU-11530,Kitchenware Item 1530,Kitchenware,44.69,49.28,6687,1195
+SKU-11531,Bedding Item 1531,Bedding,66.32,78.65,6297,1335
+SKU-11532,Kitchenware Item 1532,Kitchenware,5.38,5.57,6,302
+SKU-11533,Kitchenware Item 1533,Kitchenware,29.1,91.77,163,31
+SKU-11534,Bedding Item 1534,Bedding,64.41,72.06,5466,1227
+SKU-11535,Bedding Item 1535,Bedding,88.99,101.62,4978,1118
+SKU-11536,Furniture Item 1536,Furniture,321.62,358.62,6854,672
+SKU-11537,Gardening Item 1537,Gardening,128.83,115.92,8,832
+SKU-11538,Bedding Item 1538,Bedding,67.11,77.44,3362,832
+SKU-11539,Bedding Item 1539,Bedding,16.25,20.51,3432,1103
+SKU-11540,Gardening Item 1540,Gardening,103.69,84.23,14,300
+SKU-11541,Kitchenware Item 1541,Kitchenware,16.02,51.4,136,80
+SKU-11542,Bedding Item 1542,Bedding,146.07,359.09,4958,235
+SKU-11543,Gardening Item 1543,Gardening,129.47,109.04,39,441
+SKU-11544,Bedding Item 1544,Bedding,117.7,300.83,169,42
+SKU-11545,Gardening Item 1545,Gardening,81.37,311.9,247,33
+SKU-11546,Furniture Item 1546,Furniture,553.48,651.04,2912,1247
+SKU-11547,Home Decor Item 1547,Home Decor,97.49,84.79,18,975
+SKU-11548,Gardening Item 1548,Gardening,18.86,69.34,297,89
+SKU-11549,Furniture Item 1549,Furniture,715.95,677.73,6,835
+SKU-11550,Bedding Item 1550,Bedding,147.47,118.94,4,809
+SKU-11551,Home Decor Item 1551,Home Decor,68.85,56.53,26,969
+SKU-11552,Gardening Item 1552,Gardening,136.82,414.29,174,82
+SKU-11553,Home Decor Item 1553,Home Decor,12.57,14.33,3461,720
+SKU-11554,Gardening Item 1554,Gardening,106.36,127.27,4515,768
+SKU-11555,Home Decor Item 1555,Home Decor,73.46,61.28,28,769
+SKU-11556,Home Decor Item 1556,Home Decor,48.36,59.27,4529,934
+SKU-11557,Bedding Item 1557,Bedding,50.93,49.92,24,1173
+SKU-11558,Gardening Item 1558,Gardening,23.41,20.85,22,1115
+SKU-11559,Bedding Item 1559,Bedding,46.03,118.98,204,87
+SKU-11560,Bedding Item 1560,Bedding,128.03,160.6,6223,1461
+SKU-11561,Furniture Item 1561,Furniture,606.06,768.7,4838,647
+SKU-11562,Furniture Item 1562,Furniture,387.35,443.72,4899,955
+SKU-11563,Gardening Item 1563,Gardening,59.49,219.56,283,98
+SKU-11564,Home Decor Item 1564,Home Decor,23.86,30.11,6974,1422
+SKU-11565,Bedding Item 1565,Bedding,17.39,19.27,2761,1282
+SKU-11566,Gardening Item 1566,Gardening,73.14,145.54,2838,655
+SKU-11567,Bedding Item 1567,Bedding,29.41,67.47,4096,211
+SKU-11568,Home Decor Item 1568,Home Decor,118.33,145.38,3219,585
+SKU-11569,Bedding Item 1569,Bedding,130.41,321.34,3563,220
+SKU-11570,Home Decor Item 1570,Home Decor,31.44,63.93,2798,344
+SKU-11571,Bedding Item 1571,Bedding,89.89,111.74,3825,1077
+SKU-11572,Home Decor Item 1572,Home Decor,56.37,68.88,6793,1346
+SKU-11573,Furniture Item 1573,Furniture,358.82,420.64,3750,1455
+SKU-11574,Kitchenware Item 1574,Kitchenware,38.25,36.91,35,396
+SKU-11575,Furniture Item 1575,Furniture,260.79,309.99,5148,1265
+SKU-11576,Home Decor Item 1576,Home Decor,146.65,567.56,270,83
+SKU-11577,Home Decor Item 1577,Home Decor,114.75,272.12,1819,531
+SKU-11578,Kitchenware Item 1578,Kitchenware,7.13,7.42,6,612
+SKU-11579,Furniture Item 1579,Furniture,238.23,774.12,99,25
+SKU-11580,Gardening Item 1580,Gardening,12.53,15.64,6114,1084
+SKU-11581,Bedding Item 1581,Bedding,125.75,369.08,161,94
+SKU-11582,Gardening Item 1582,Gardening,147.89,266.23,2982,628
+SKU-11583,Gardening Item 1583,Gardening,140.71,139.95,33,557
+SKU-11584,Home Decor Item 1584,Home Decor,76.54,62.45,21,1135
+SKU-11585,Home Decor Item 1585,Home Decor,144.93,552.64,187,70
+SKU-11586,Gardening Item 1586,Gardening,15.07,38.17,182,72
+SKU-11587,Gardening Item 1587,Gardening,138.95,159.56,3112,1445
+SKU-11588,Home Decor Item 1588,Home Decor,37.55,37.5,31,991
+SKU-11589,Gardening Item 1589,Gardening,109.68,135.52,4218,558
+SKU-11590,Home Decor Item 1590,Home Decor,77.21,90.54,3245,1194
+SKU-11591,Gardening Item 1591,Gardening,25.14,25.24,0,1085
+SKU-11592,Furniture Item 1592,Furniture,440.47,564.66,4939,1140
+SKU-11593,Kitchenware Item 1593,Kitchenware,37.87,91.19,4864,448
+SKU-11594,Gardening Item 1594,Gardening,19.66,16.46,11,882
+SKU-11595,Kitchenware Item 1595,Kitchenware,47.13,119.21,59,79
+SKU-11596,Kitchenware Item 1596,Kitchenware,36.28,74.91,2753,663
+SKU-11597,Home Decor Item 1597,Home Decor,50.54,178.18,60,44
+SKU-11598,Kitchenware Item 1598,Kitchenware,47.16,59.15,2740,1476
+SKU-11599,Kitchenware Item 1599,Kitchenware,7.63,8.66,5711,1323
+SKU-11600,Home Decor Item 1600,Home Decor,135.74,112.19,19,1022
+SKU-11601,Furniture Item 1601,Furniture,785.06,647.21,33,846
+SKU-11602,Kitchenware Item 1602,Kitchenware,12.57,33.8,108,95
+SKU-11603,Gardening Item 1603,Gardening,83.52,100.67,6244,1264
+SKU-11604,Home Decor Item 1604,Home Decor,25.54,31.69,5380,568
+SKU-11605,Bedding Item 1605,Bedding,16.88,38.19,2649,521
+SKU-11606,Home Decor Item 1606,Home Decor,73.46,207.46,180,12
+SKU-11607,Gardening Item 1607,Gardening,121.69,97.68,29,543
+SKU-11608,Bedding Item 1608,Bedding,67.8,57.3,39,946
+SKU-11609,Kitchenware Item 1609,Kitchenware,19.74,21.81,6747,1119
+SKU-11610,Gardening Item 1610,Gardening,11.95,38.49,197,80
+SKU-11611,Bedding Item 1611,Bedding,57.95,128.19,2052,529
+SKU-11612,Gardening Item 1612,Gardening,14.71,26.75,4820,464
+SKU-11613,Gardening Item 1613,Gardening,56.11,151.02,188,70
+SKU-11614,Furniture Item 1614,Furniture,570.6,594.77,20,861
+SKU-11615,Bedding Item 1615,Bedding,19.93,47.54,4836,765
+SKU-11616,Furniture Item 1616,Furniture,245.44,486.3,4689,541
+SKU-11617,Home Decor Item 1617,Home Decor,15.65,19.58,3810,1126
+SKU-11618,Gardening Item 1618,Gardening,96.3,77.75,25,445
+SKU-11619,Gardening Item 1619,Gardening,65.4,81.71,6696,991
+SKU-11620,Gardening Item 1620,Gardening,24.76,48.13,2303,565
+SKU-11621,Home Decor Item 1621,Home Decor,19.1,18.64,15,1167
+SKU-11622,Home Decor Item 1622,Home Decor,122.43,146.0,6796,1083
+SKU-11623,Gardening Item 1623,Gardening,56.95,212.55,267,53
+SKU-11624,Home Decor Item 1624,Home Decor,35.17,43.99,2416,1058
+SKU-11625,Bedding Item 1625,Bedding,132.08,314.48,1820,315
+SKU-11626,Kitchenware Item 1626,Kitchenware,27.04,23.98,5,852
+SKU-11627,Home Decor Item 1627,Home Decor,75.87,282.15,298,98
+SKU-11628,Bedding Item 1628,Bedding,11.45,41.73,181,47
+SKU-11629,Kitchenware Item 1629,Kitchenware,40.54,105.18,263,61
+SKU-11630,Kitchenware Item 1630,Kitchenware,38.46,113.1,207,20
+SKU-11631,Gardening Item 1631,Gardening,80.03,172.91,3290,244
+SKU-11632,Gardening Item 1632,Gardening,19.34,17.84,30,471
+SKU-11633,Bedding Item 1633,Bedding,56.65,222.9,228,15
+SKU-11634,Gardening Item 1634,Gardening,114.48,262.48,4183,420
+SKU-11635,Home Decor Item 1635,Home Decor,79.87,71.01,25,968
+SKU-11636,Bedding Item 1636,Bedding,129.11,155.18,2529,1049
+SKU-11637,Gardening Item 1637,Gardening,72.79,66.46,34,1127
+SKU-11638,Furniture Item 1638,Furniture,133.57,131.76,15,1035
+SKU-11639,Home Decor Item 1639,Home Decor,76.24,191.93,75,67
+SKU-11640,Bedding Item 1640,Bedding,47.57,140.94,126,10
+SKU-11641,Home Decor Item 1641,Home Decor,37.87,109.8,57,41
+SKU-11642,Bedding Item 1642,Bedding,44.54,52.69,5795,817
+SKU-11643,Gardening Item 1643,Gardening,38.96,112.59,74,53
+SKU-11644,Kitchenware Item 1644,Kitchenware,30.43,26.18,13,381
+SKU-11645,Kitchenware Item 1645,Kitchenware,36.27,46.51,3480,1026
+SKU-11646,Kitchenware Item 1646,Kitchenware,13.9,12.27,15,514
+SKU-11647,Home Decor Item 1647,Home Decor,136.21,167.23,4550,744
+SKU-11648,Home Decor Item 1648,Home Decor,71.15,280.76,129,64
+SKU-11649,Kitchenware Item 1649,Kitchenware,6.01,11.55,2427,431
+SKU-11650,Gardening Item 1650,Gardening,108.69,255.13,2376,502
+SKU-11651,Home Decor Item 1651,Home Decor,10.42,13.41,2023,1024
+SKU-11652,Gardening Item 1652,Gardening,117.21,212.45,4556,577
+SKU-11653,Bedding Item 1653,Bedding,22.1,20.27,16,776
+SKU-11654,Gardening Item 1654,Gardening,50.26,56.68,5348,948
+SKU-11655,Kitchenware Item 1655,Kitchenware,44.11,128.84,144,83
+SKU-11656,Home Decor Item 1656,Home Decor,106.72,101.28,16,705
+SKU-11657,Home Decor Item 1657,Home Decor,139.21,136.17,10,469
+SKU-11658,Home Decor Item 1658,Home Decor,30.79,39.08,5598,678
+SKU-11659,Bedding Item 1659,Bedding,69.41,130.18,1645,689
+SKU-11660,Kitchenware Item 1660,Kitchenware,28.85,35.39,4196,1498
+SKU-11661,Home Decor Item 1661,Home Decor,64.6,78.06,2292,930
+SKU-11662,Bedding Item 1662,Bedding,29.08,28.6,19,1164
+SKU-11663,Bedding Item 1663,Bedding,104.39,93.9,39,849
+SKU-11664,Bedding Item 1664,Bedding,122.36,100.81,28,442
+SKU-11665,Home Decor Item 1665,Home Decor,22.75,62.56,70,51
+SKU-11666,Bedding Item 1666,Bedding,88.82,111.42,3731,592
+SKU-11667,Kitchenware Item 1667,Kitchenware,12.67,10.39,6,559
+SKU-11668,Home Decor Item 1668,Home Decor,54.04,64.24,6431,1489
+SKU-11669,Bedding Item 1669,Bedding,37.81,42.12,6337,798
+SKU-11670,Home Decor Item 1670,Home Decor,34.19,39.09,4259,1093
+SKU-11671,Gardening Item 1671,Gardening,53.78,114.25,2502,262
+SKU-11672,Furniture Item 1672,Furniture,633.96,1879.39,224,37
+SKU-11673,Gardening Item 1673,Gardening,113.15,408.53,94,84
+SKU-11674,Home Decor Item 1674,Home Decor,19.28,21.21,6482,1192
+SKU-11675,Furniture Item 1675,Furniture,702.86,1505.11,2515,598
+SKU-11676,Gardening Item 1676,Gardening,44.98,137.39,197,96
+SKU-11677,Home Decor Item 1677,Home Decor,69.3,197.46,196,81
+SKU-11678,Bedding Item 1678,Bedding,116.26,318.75,223,10
+SKU-11679,Bedding Item 1679,Bedding,35.2,121.6,164,69
+SKU-11680,Furniture Item 1680,Furniture,659.83,782.63,4278,745
+SKU-11681,Furniture Item 1681,Furniture,255.05,633.77,2151,327
+SKU-11682,Gardening Item 1682,Gardening,142.59,485.7,188,33
+SKU-11683,Home Decor Item 1683,Home Decor,68.54,226.47,250,46
+SKU-11684,Kitchenware Item 1684,Kitchenware,37.34,46.81,5466,1197
+SKU-11685,Bedding Item 1685,Bedding,79.94,169.01,2816,647
+SKU-11686,Bedding Item 1686,Bedding,38.49,82.36,2132,666
+SKU-11687,Gardening Item 1687,Gardening,14.99,19.36,6359,1462
+SKU-11688,Home Decor Item 1688,Home Decor,34.85,38.78,4093,525
+SKU-11689,Furniture Item 1689,Furniture,458.71,1188.1,116,89
+SKU-11690,Furniture Item 1690,Furniture,515.76,980.29,3194,219
+SKU-11691,Home Decor Item 1691,Home Decor,123.14,255.68,1910,505
+SKU-11692,Bedding Item 1692,Bedding,68.32,193.66,168,43
+SKU-11693,Kitchenware Item 1693,Kitchenware,24.26,61.09,189,37
+SKU-11694,Furniture Item 1694,Furniture,104.15,126.84,4502,1479
+SKU-11695,Bedding Item 1695,Bedding,90.28,86.38,9,401
+SKU-11696,Kitchenware Item 1696,Kitchenware,34.17,33.69,12,634
+SKU-11697,Gardening Item 1697,Gardening,111.3,107.52,33,416
+SKU-11698,Gardening Item 1698,Gardening,134.48,108.64,32,464
+SKU-11699,Kitchenware Item 1699,Kitchenware,42.06,119.05,179,39
+SKU-11700,Bedding Item 1700,Bedding,126.51,357.02,226,33
+SKU-11701,Furniture Item 1701,Furniture,298.87,706.68,1199,655
+SKU-11702,Bedding Item 1702,Bedding,64.02,58.39,27,342
+SKU-11703,Home Decor Item 1703,Home Decor,92.71,271.0,72,24
+SKU-11704,Furniture Item 1704,Furniture,613.85,1169.19,3552,524
+SKU-11705,Gardening Item 1705,Gardening,140.42,119.25,36,633
+SKU-11706,Bedding Item 1706,Bedding,144.1,129.15,35,1002
+SKU-11707,Kitchenware Item 1707,Kitchenware,23.79,23.03,29,647
+SKU-11708,Kitchenware Item 1708,Kitchenware,16.2,59.75,198,86
+SKU-11709,Home Decor Item 1709,Home Decor,65.8,157.42,4284,770
+SKU-11710,Bedding Item 1710,Bedding,84.94,88.62,15,884
+SKU-11711,Bedding Item 1711,Bedding,59.17,49.76,25,840
+SKU-11712,Gardening Item 1712,Gardening,73.32,169.55,3665,508
+SKU-11713,Gardening Item 1713,Gardening,103.55,96.02,16,1061
+SKU-11714,Bedding Item 1714,Bedding,55.29,119.13,4539,712
+SKU-11715,Furniture Item 1715,Furniture,433.63,383.66,39,914
+SKU-11716,Furniture Item 1716,Furniture,486.51,439.67,19,432
+SKU-11717,Kitchenware Item 1717,Kitchenware,6.82,15.17,4884,782
+SKU-11718,Gardening Item 1718,Gardening,15.11,53.86,82,45
+SKU-11719,Gardening Item 1719,Gardening,43.15,116.12,119,96
+SKU-11720,Furniture Item 1720,Furniture,391.69,461.52,4876,980
+SKU-11721,Home Decor Item 1721,Home Decor,58.03,63.92,6122,773
+SKU-11722,Home Decor Item 1722,Home Decor,15.86,58.65,166,58
+SKU-11723,Kitchenware Item 1723,Kitchenware,30.81,24.71,29,1005
+SKU-11724,Bedding Item 1724,Bedding,112.54,117.95,17,331
+SKU-11725,Home Decor Item 1725,Home Decor,18.58,47.26,62,18
+SKU-11726,Bedding Item 1726,Bedding,71.71,58.52,36,1031
+SKU-11727,Kitchenware Item 1727,Kitchenware,25.44,32.37,6889,1385
+SKU-11728,Bedding Item 1728,Bedding,11.79,33.02,112,37
+SKU-11729,Home Decor Item 1729,Home Decor,106.86,303.09,126,14
+SKU-11730,Gardening Item 1730,Gardening,88.42,179.78,3286,533
+SKU-11731,Kitchenware Item 1731,Kitchenware,47.0,41.35,32,315
+SKU-11732,Bedding Item 1732,Bedding,106.56,93.53,24,1123
+SKU-11733,Bedding Item 1733,Bedding,65.37,140.26,1567,430
+SKU-11734,Bedding Item 1734,Bedding,29.61,38.15,4893,520
+SKU-11735,Bedding Item 1735,Bedding,61.11,60.43,3,670
+SKU-11736,Gardening Item 1736,Gardening,132.06,439.84,189,35
+SKU-11737,Furniture Item 1737,Furniture,612.6,613.37,13,939
+SKU-11738,Kitchenware Item 1738,Kitchenware,28.13,26.52,12,1051
+SKU-11739,Kitchenware Item 1739,Kitchenware,6.72,21.86,65,52
+SKU-11740,Kitchenware Item 1740,Kitchenware,5.27,14.14,266,69
+SKU-11741,Gardening Item 1741,Gardening,65.12,73.03,5297,793
+SKU-11742,Furniture Item 1742,Furniture,550.49,1255.45,4772,745
+SKU-11743,Bedding Item 1743,Bedding,74.73,86.9,2482,842
+SKU-11744,Home Decor Item 1744,Home Decor,130.95,137.08,30,805
+SKU-11745,Bedding Item 1745,Bedding,48.93,53.87,4390,762
+SKU-11746,Home Decor Item 1746,Home Decor,132.52,317.52,1597,701
+SKU-11747,Bedding Item 1747,Bedding,36.88,92.86,156,34
+SKU-11748,Kitchenware Item 1748,Kitchenware,34.77,96.66,296,31
+SKU-11749,Gardening Item 1749,Gardening,86.93,253.18,64,39
+SKU-11750,Home Decor Item 1750,Home Decor,70.14,243.27,149,86
+SKU-11751,Bedding Item 1751,Bedding,46.74,42.71,15,1098
+SKU-11752,Bedding Item 1752,Bedding,107.51,135.85,5679,772
+SKU-11753,Gardening Item 1753,Gardening,45.31,54.15,3155,1283
+SKU-11754,Bedding Item 1754,Bedding,143.25,118.46,39,357
+SKU-11755,Home Decor Item 1755,Home Decor,15.77,18.72,4416,1045
+SKU-11756,Kitchenware Item 1756,Kitchenware,28.95,32.53,5386,660
+SKU-11757,Kitchenware Item 1757,Kitchenware,8.78,16.35,1268,653
+SKU-11758,Gardening Item 1758,Gardening,96.35,336.12,276,60
+SKU-11759,Gardening Item 1759,Gardening,132.02,147.89,2595,1230
+SKU-11760,Kitchenware Item 1760,Kitchenware,27.84,23.15,6,1010
+SKU-11761,Furniture Item 1761,Furniture,297.06,353.75,5388,1248
+SKU-11762,Furniture Item 1762,Furniture,175.22,167.95,12,1132
+SKU-11763,Home Decor Item 1763,Home Decor,146.65,180.78,2171,1321
+SKU-11764,Furniture Item 1764,Furniture,462.2,556.19,3049,637
+SKU-11765,Gardening Item 1765,Gardening,15.71,20.27,4702,1413
+SKU-11766,Gardening Item 1766,Gardening,139.15,136.96,27,659
+SKU-11767,Furniture Item 1767,Furniture,293.28,297.51,8,508
+SKU-11768,Gardening Item 1768,Gardening,82.03,168.91,4442,489
+SKU-11769,Bedding Item 1769,Bedding,116.86,103.36,12,907
+SKU-11770,Home Decor Item 1770,Home Decor,56.31,53.85,4,417
+SKU-11771,Home Decor Item 1771,Home Decor,122.34,257.3,4735,476
+SKU-11772,Furniture Item 1772,Furniture,591.52,1879.03,266,66
+SKU-11773,Gardening Item 1773,Gardening,124.0,417.22,211,37
+SKU-11774,Gardening Item 1774,Gardening,27.46,55.03,2999,600
+SKU-11775,Home Decor Item 1775,Home Decor,123.57,142.49,2620,933
+SKU-11776,Home Decor Item 1776,Home Decor,122.39,142.6,6719,1315
+SKU-11777,Bedding Item 1777,Bedding,148.04,133.15,1,777
+SKU-11778,Kitchenware Item 1778,Kitchenware,44.61,46.42,37,437
+SKU-11779,Gardening Item 1779,Gardening,106.5,91.71,16,432
+SKU-11780,Bedding Item 1780,Bedding,82.91,100.36,4459,653
+SKU-11781,Furniture Item 1781,Furniture,655.31,746.84,4249,1080
+SKU-11782,Furniture Item 1782,Furniture,458.03,414.5,2,745
+SKU-11783,Kitchenware Item 1783,Kitchenware,7.83,7.33,38,535
+SKU-11784,Furniture Item 1784,Furniture,194.35,225.85,3196,1136
+SKU-11785,Furniture Item 1785,Furniture,247.32,299.6,6900,953
+SKU-11786,Furniture Item 1786,Furniture,753.32,973.29,5344,592
+SKU-11787,Furniture Item 1787,Furniture,697.76,1320.48,3112,683
+SKU-11788,Home Decor Item 1788,Home Decor,14.24,12.37,16,302
+SKU-11789,Home Decor Item 1789,Home Decor,42.46,34.06,7,814
+SKU-11790,Kitchenware Item 1790,Kitchenware,13.62,30.96,1665,233
+SKU-11791,Kitchenware Item 1791,Kitchenware,37.44,32.86,4,1068
+SKU-11792,Kitchenware Item 1792,Kitchenware,42.43,54.6,6030,783
+SKU-11793,Kitchenware Item 1793,Kitchenware,42.67,92.88,4723,375
+SKU-11794,Gardening Item 1794,Gardening,80.78,96.02,2142,897
+SKU-11795,Gardening Item 1795,Gardening,66.61,151.93,4650,659
+SKU-11796,Home Decor Item 1796,Home Decor,87.68,83.99,34,758
+SKU-11797,Gardening Item 1797,Gardening,137.51,123.5,34,1016
+SKU-11798,Bedding Item 1798,Bedding,135.92,126.44,11,555
+SKU-11799,Bedding Item 1799,Bedding,45.85,86.47,4330,355
+SKU-11800,Gardening Item 1800,Gardening,112.83,138.22,2133,1363
+SKU-11801,Bedding Item 1801,Bedding,27.71,34.33,2881,534
+SKU-11802,Bedding Item 1802,Bedding,78.95,67.1,36,646
+SKU-11803,Bedding Item 1803,Bedding,98.69,115.02,2541,711
+SKU-11804,Gardening Item 1804,Gardening,148.53,176.87,4419,514
+SKU-11805,Gardening Item 1805,Gardening,106.23,387.54,257,92
+SKU-11806,Gardening Item 1806,Gardening,89.32,76.36,13,883
+SKU-11807,Home Decor Item 1807,Home Decor,116.18,144.51,2845,1116
+SKU-11808,Bedding Item 1808,Bedding,50.64,202.31,160,89
+SKU-11809,Home Decor Item 1809,Home Decor,81.87,82.71,9,712
+SKU-11810,Bedding Item 1810,Bedding,124.84,157.18,4787,896
+SKU-11811,Furniture Item 1811,Furniture,501.56,642.22,6597,1008
+SKU-11812,Gardening Item 1812,Gardening,142.08,334.43,4619,348
+SKU-11813,Gardening Item 1813,Gardening,57.69,109.46,3749,481
+SKU-11814,Furniture Item 1814,Furniture,612.24,1217.2,2642,492
+SKU-11815,Gardening Item 1815,Gardening,87.7,72.35,23,1130
+SKU-11816,Kitchenware Item 1816,Kitchenware,47.64,54.4,2819,1353
+SKU-11817,Furniture Item 1817,Furniture,792.43,1021.01,3141,1081
+SKU-11818,Gardening Item 1818,Gardening,39.12,45.7,6071,802
+SKU-11819,Kitchenware Item 1819,Kitchenware,24.85,21.2,36,1163
+SKU-11820,Bedding Item 1820,Bedding,146.64,181.07,4474,1488
+SKU-11821,Gardening Item 1821,Gardening,128.08,110.51,25,774
+SKU-11822,Bedding Item 1822,Bedding,133.18,169.31,6341,867
+SKU-11823,Gardening Item 1823,Gardening,58.68,51.28,0,864
+SKU-11824,Furniture Item 1824,Furniture,459.25,1736.67,199,58
+SKU-11825,Furniture Item 1825,Furniture,464.06,453.54,37,835
+SKU-11826,Bedding Item 1826,Bedding,19.72,19.74,1,405
+SKU-11827,Bedding Item 1827,Bedding,119.31,221.43,2902,403
+SKU-11828,Furniture Item 1828,Furniture,494.89,1887.74,268,72
+SKU-11829,Kitchenware Item 1829,Kitchenware,13.02,11.64,38,370
+SKU-11830,Bedding Item 1830,Bedding,133.08,117.74,9,512
+SKU-11831,Home Decor Item 1831,Home Decor,91.21,87.42,26,658
+SKU-11832,Kitchenware Item 1832,Kitchenware,39.39,127.33,53,57
+SKU-11833,Gardening Item 1833,Gardening,106.17,117.02,3947,1426
+SKU-11834,Furniture Item 1834,Furniture,108.82,236.61,4952,508
+SKU-11835,Bedding Item 1835,Bedding,32.03,82.93,162,16
+SKU-11836,Home Decor Item 1836,Home Decor,135.52,392.55,51,15
+SKU-11837,Home Decor Item 1837,Home Decor,11.14,13.09,2894,768
+SKU-11838,Kitchenware Item 1838,Kitchenware,39.97,47.43,5055,1429
+SKU-11839,Home Decor Item 1839,Home Decor,125.2,283.36,4128,765
+SKU-11840,Kitchenware Item 1840,Kitchenware,16.84,47.9,133,63
+SKU-11841,Furniture Item 1841,Furniture,599.95,1279.78,3429,502
+SKU-11842,Bedding Item 1842,Bedding,145.88,128.33,13,1103
+SKU-11843,Gardening Item 1843,Gardening,59.7,123.35,4337,220
+SKU-11844,Gardening Item 1844,Gardening,102.84,126.74,5817,1047
+SKU-11845,Kitchenware Item 1845,Kitchenware,25.1,31.2,2520,800
+SKU-11846,Bedding Item 1846,Bedding,49.54,45.39,15,883
+SKU-11847,Kitchenware Item 1847,Kitchenware,14.31,13.76,15,562
+SKU-11848,Gardening Item 1848,Gardening,20.9,23.46,6473,651
+SKU-11849,Bedding Item 1849,Bedding,95.99,79.34,34,666
+SKU-11850,Kitchenware Item 1850,Kitchenware,5.12,6.01,3844,1010
+SKU-11851,Bedding Item 1851,Bedding,16.08,19.76,5291,952
+SKU-11852,Kitchenware Item 1852,Kitchenware,27.29,33.38,2404,1262
+SKU-11853,Furniture Item 1853,Furniture,765.37,684.62,16,593
+SKU-11854,Furniture Item 1854,Furniture,127.59,423.18,93,86
+SKU-11855,Furniture Item 1855,Furniture,588.75,1686.45,252,38
+SKU-11856,Furniture Item 1856,Furniture,470.61,563.85,3513,1058
+SKU-11857,Gardening Item 1857,Gardening,49.85,63.71,3612,655
+SKU-11858,Furniture Item 1858,Furniture,792.21,824.68,22,479
+SKU-11859,Home Decor Item 1859,Home Decor,41.83,49.7,5360,828
+SKU-11860,Kitchenware Item 1860,Kitchenware,6.52,18.36,260,80
+SKU-11861,Bedding Item 1861,Bedding,75.67,89.2,3214,874
+SKU-11862,Furniture Item 1862,Furniture,429.17,444.87,0,445
+SKU-11863,Furniture Item 1863,Furniture,546.25,1892.1,142,93
+SKU-11864,Furniture Item 1864,Furniture,587.96,2209.59,128,40
+SKU-11865,Bedding Item 1865,Bedding,84.76,93.42,2747,909
+SKU-11866,Furniture Item 1866,Furniture,690.28,814.83,5342,1022
+SKU-11867,Furniture Item 1867,Furniture,244.51,734.97,295,27
+SKU-11868,Kitchenware Item 1868,Kitchenware,16.35,32.57,4645,333
+SKU-11869,Gardening Item 1869,Gardening,30.23,63.33,2553,771
+SKU-11870,Gardening Item 1870,Gardening,66.92,79.58,6169,761
+SKU-11871,Furniture Item 1871,Furniture,377.82,484.73,5437,1160
+SKU-11872,Furniture Item 1872,Furniture,269.33,324.28,3032,1291
+SKU-11873,Home Decor Item 1873,Home Decor,41.9,53.02,5460,1399
+SKU-11874,Gardening Item 1874,Gardening,44.14,101.07,1007,543
+SKU-11875,Home Decor Item 1875,Home Decor,136.48,326.89,2216,556
+SKU-11876,Furniture Item 1876,Furniture,605.62,1208.29,2300,314
+SKU-11877,Kitchenware Item 1877,Kitchenware,38.37,48.37,4210,1187
+SKU-11878,Kitchenware Item 1878,Kitchenware,7.14,8.85,2063,1474
+SKU-11879,Furniture Item 1879,Furniture,565.37,725.73,5330,925
+SKU-11880,Gardening Item 1880,Gardening,122.43,113.28,23,501
+SKU-11881,Furniture Item 1881,Furniture,192.51,227.8,5220,534
+SKU-11882,Kitchenware Item 1882,Kitchenware,49.42,55.97,5424,993
+SKU-11883,Furniture Item 1883,Furniture,589.37,566.05,38,1133
+SKU-11884,Home Decor Item 1884,Home Decor,66.05,53.49,2,796
+SKU-11885,Furniture Item 1885,Furniture,133.26,157.06,3851,966
+SKU-11886,Gardening Item 1886,Gardening,82.11,257.53,75,11
+SKU-11887,Bedding Item 1887,Bedding,19.63,58.65,99,22
+SKU-11888,Kitchenware Item 1888,Kitchenware,8.36,8.7,12,523
+SKU-11889,Gardening Item 1889,Gardening,11.41,13.55,2546,896
+SKU-11890,Furniture Item 1890,Furniture,637.03,730.15,4738,1175
+SKU-11891,Gardening Item 1891,Gardening,84.48,71.8,32,927
+SKU-11892,Bedding Item 1892,Bedding,104.06,87.74,13,345
+SKU-11893,Bedding Item 1893,Bedding,73.13,82.5,6668,1097
+SKU-11894,Kitchenware Item 1894,Kitchenware,34.15,40.84,4745,1368
+SKU-11895,Home Decor Item 1895,Home Decor,112.75,259.64,2816,725
+SKU-11896,Home Decor Item 1896,Home Decor,74.73,64.65,4,1008
+SKU-11897,Furniture Item 1897,Furniture,335.77,933.2,75,69
+SKU-11898,Bedding Item 1898,Bedding,29.37,28.98,36,829
+SKU-11899,Gardening Item 1899,Gardening,12.57,15.76,6221,1049
+SKU-11900,Bedding Item 1900,Bedding,74.04,214.59,294,51
+SKU-11901,Home Decor Item 1901,Home Decor,140.34,124.26,3,933
+SKU-11902,Bedding Item 1902,Bedding,90.53,77.92,18,556
+SKU-11903,Kitchenware Item 1903,Kitchenware,13.88,34.75,250,18
+SKU-11904,Bedding Item 1904,Bedding,101.99,87.06,10,994
+SKU-11905,Home Decor Item 1905,Home Decor,148.04,351.73,2521,489
+SKU-11906,Kitchenware Item 1906,Kitchenware,13.33,42.63,120,49
+SKU-11907,Bedding Item 1907,Bedding,65.88,254.21,258,18
+SKU-11908,Furniture Item 1908,Furniture,402.16,940.19,1049,619
+SKU-11909,Home Decor Item 1909,Home Decor,39.56,103.58,66,93
+SKU-11910,Home Decor Item 1910,Home Decor,91.84,198.36,4336,365
+SKU-11911,Bedding Item 1911,Bedding,139.61,377.46,112,74
+SKU-11912,Kitchenware Item 1912,Kitchenware,14.0,28.19,4533,401
+SKU-11913,Gardening Item 1913,Gardening,113.43,286.26,245,66
+SKU-11914,Bedding Item 1914,Bedding,102.59,240.49,2759,305
+SKU-11915,Home Decor Item 1915,Home Decor,107.55,349.82,116,88
+SKU-11916,Home Decor Item 1916,Home Decor,115.18,459.75,65,38
+SKU-11917,Bedding Item 1917,Bedding,133.5,488.18,298,11
+SKU-11918,Bedding Item 1918,Bedding,32.76,26.33,35,1132
+SKU-11919,Kitchenware Item 1919,Kitchenware,37.84,39.65,14,917
+SKU-11920,Home Decor Item 1920,Home Decor,105.28,86.46,16,994
+SKU-11921,Gardening Item 1921,Gardening,10.95,27.17,4016,270
+SKU-11922,Home Decor Item 1922,Home Decor,20.99,57.35,158,42
+SKU-11923,Kitchenware Item 1923,Kitchenware,34.95,28.0,38,953
+SKU-11924,Home Decor Item 1924,Home Decor,37.65,37.35,39,829
+SKU-11925,Kitchenware Item 1925,Kitchenware,16.85,19.42,6801,714
+SKU-11926,Kitchenware Item 1926,Kitchenware,23.83,22.37,23,764
+SKU-11927,Furniture Item 1927,Furniture,493.87,483.27,39,440
+SKU-11928,Furniture Item 1928,Furniture,295.28,592.66,4631,260
+SKU-11929,Bedding Item 1929,Bedding,21.8,21.52,27,991
+SKU-11930,Home Decor Item 1930,Home Decor,110.49,419.11,77,45
+SKU-11931,Kitchenware Item 1931,Kitchenware,21.79,53.39,3292,231
+SKU-11932,Gardening Item 1932,Gardening,128.29,283.0,2679,255
+SKU-11933,Kitchenware Item 1933,Kitchenware,10.74,9.81,29,377
+SKU-11934,Bedding Item 1934,Bedding,39.68,79.89,1369,404
+SKU-11935,Home Decor Item 1935,Home Decor,12.87,42.43,234,25
+SKU-11936,Bedding Item 1936,Bedding,100.6,386.34,97,42
+SKU-11937,Kitchenware Item 1937,Kitchenware,49.17,40.67,22,329
+SKU-11938,Kitchenware Item 1938,Kitchenware,35.47,36.7,13,1160
+SKU-11939,Bedding Item 1939,Bedding,21.05,42.76,1311,233
+SKU-11940,Bedding Item 1940,Bedding,75.84,266.13,143,56
+SKU-11941,Furniture Item 1941,Furniture,275.92,558.16,1723,401
+SKU-11942,Home Decor Item 1942,Home Decor,122.22,115.75,18,945
+SKU-11943,Furniture Item 1943,Furniture,484.99,602.89,5700,1498
+SKU-11944,Furniture Item 1944,Furniture,624.74,1372.85,3122,258
+SKU-11945,Furniture Item 1945,Furniture,752.74,637.24,6,334
+SKU-11946,Furniture Item 1946,Furniture,681.12,566.05,22,1091
+SKU-11947,Bedding Item 1947,Bedding,103.12,131.38,2912,1187
+SKU-11948,Gardening Item 1948,Gardening,55.47,61.9,2685,918
+SKU-11949,Kitchenware Item 1949,Kitchenware,26.2,26.58,16,1117
+SKU-11950,Kitchenware Item 1950,Kitchenware,22.89,28.58,5254,1381
+SKU-11951,Home Decor Item 1951,Home Decor,138.02,140.29,18,628
+SKU-11952,Kitchenware Item 1952,Kitchenware,21.58,52.24,2592,331
+SKU-11953,Kitchenware Item 1953,Kitchenware,46.75,51.49,5191,537
+SKU-11954,Home Decor Item 1954,Home Decor,24.11,30.91,5814,827
+SKU-11955,Furniture Item 1955,Furniture,124.0,126.88,12,518
+SKU-11956,Kitchenware Item 1956,Kitchenware,27.71,28.37,1,1093
+SKU-11957,Bedding Item 1957,Bedding,39.14,50.27,4853,607
+SKU-11958,Kitchenware Item 1958,Kitchenware,15.12,48.44,121,55
+SKU-11959,Home Decor Item 1959,Home Decor,10.13,10.37,3,376
+SKU-11960,Bedding Item 1960,Bedding,107.94,130.06,2275,789
+SKU-11961,Furniture Item 1961,Furniture,413.34,425.19,33,688
+SKU-11962,Kitchenware Item 1962,Kitchenware,37.75,74.03,4377,372
+SKU-11963,Home Decor Item 1963,Home Decor,44.06,40.79,19,1114
+SKU-11964,Gardening Item 1964,Gardening,148.65,299.18,3565,638
+SKU-11965,Bedding Item 1965,Bedding,98.62,391.31,224,89
+SKU-11966,Kitchenware Item 1966,Kitchenware,20.66,16.69,30,1017
+SKU-11967,Kitchenware Item 1967,Kitchenware,23.75,22.86,16,338
+SKU-11968,Bedding Item 1968,Bedding,58.72,75.94,4925,690
+SKU-11969,Furniture Item 1969,Furniture,285.85,344.86,4896,1034
+SKU-11970,Furniture Item 1970,Furniture,442.15,548.53,3725,841
+SKU-11971,Bedding Item 1971,Bedding,85.82,236.14,83,90
+SKU-11972,Home Decor Item 1972,Home Decor,15.0,12.95,13,540
+SKU-11973,Furniture Item 1973,Furniture,622.91,615.79,20,326
+SKU-11974,Furniture Item 1974,Furniture,274.56,229.64,12,493
+SKU-11975,Kitchenware Item 1975,Kitchenware,35.68,29.65,35,559
+SKU-11976,Kitchenware Item 1976,Kitchenware,10.37,26.93,233,16
+SKU-11977,Furniture Item 1977,Furniture,301.59,271.24,4,1160
+SKU-11978,Bedding Item 1978,Bedding,119.17,120.81,26,607
+SKU-11979,Bedding Item 1979,Bedding,77.24,154.17,3100,251
+SKU-11980,Bedding Item 1980,Bedding,68.39,77.02,3424,1110
+SKU-11981,Bedding Item 1981,Bedding,123.47,110.86,18,678
+SKU-11982,Kitchenware Item 1982,Kitchenware,23.83,30.38,5647,524
+SKU-11983,Furniture Item 1983,Furniture,114.83,131.89,3484,1218
+SKU-11984,Gardening Item 1984,Gardening,19.08,18.25,10,979
+SKU-11985,Furniture Item 1985,Furniture,575.52,661.9,6459,873
+SKU-11986,Bedding Item 1986,Bedding,30.65,58.84,4903,560
+SKU-11987,Home Decor Item 1987,Home Decor,98.26,121.44,5299,1315
+SKU-11988,Home Decor Item 1988,Home Decor,140.1,135.45,20,834
+SKU-11989,Gardening Item 1989,Gardening,110.32,326.34,153,78
+SKU-11990,Bedding Item 1990,Bedding,38.73,38.03,38,552
+SKU-11991,Home Decor Item 1991,Home Decor,80.73,82.69,7,521
+SKU-11992,Home Decor Item 1992,Home Decor,146.71,123.47,36,840
+SKU-11993,Furniture Item 1993,Furniture,304.1,393.21,5428,1184
+SKU-11994,Home Decor Item 1994,Home Decor,86.39,74.76,0,479
+SKU-11995,Home Decor Item 1995,Home Decor,56.28,56.28,34,1112
+SKU-11996,Bedding Item 1996,Bedding,118.23,136.53,2427,1490
+SKU-11997,Bedding Item 1997,Bedding,57.1,59.48,24,767
+SKU-11998,Furniture Item 1998,Furniture,651.13,634.69,1,1091
+SKU-11999,Home Decor Item 1999,Home Decor,121.02,97.17,8,611
