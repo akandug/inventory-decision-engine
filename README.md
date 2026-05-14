@@ -1,2 +1,45 @@
-# inventory-decision-engine
+## Inventory Decision Engine
 Data-driven SKU rationalization system for optimizing inventory, profitability, and product assortment decisions.
+
+## Tools Used
+- Excel
+- MySQL
+- Tableau
+
+## Project Overview
+This project provides a data-driven framework to optimize product portfolio density and eliminate profit drains.
+
+## Business Problem
+The company is currently guessing which products to keep, causing three specific headaches that need a data-driven fix
+
+1.	Diminishing Returns: The cost of managing, storing, and marketing new SKUs began to outweigh the marginal revenue they generated.
+
+2.	Operational Inefficiency:  We have too much money tied up in inventory that isn't moving. We need to identify these so we can clear them out and use that cash to double down on our "best-sellers".
+ 
+3.	“Buying” Decision-Making: The buying team can't tell the difference between items that help sell others (Complements) and items that just steal sales from what we already have (Substitutes). We need a framework to help them decide which items actually add value to a customer's basket.
+
+## Project Objective
+Identify and free up cash flow locked away in stagnant, high-cost warehouse inventory.Streamline Product Assortment. 
+Reduce supply chain complexity by establishing clear, data-backed boundaries for keeping or dropping items.Eliminate Profit Loss. Automatically flag financial anomalies, such as items where the wholesale cost exceeds the retail shelf price.
+
+## Dataset
+
+
+## Analysis Approach (The ABC/XYZ Matrix)
+The engine processes raw operational data and segments the product catalog into actionable performance tiers:
+ABC Analysis (Revenue Impact): Ranks products by their total annual revenue contribution.
+
+Tier A: Top-performing items driving 70% of total revenue.
+Tier B: Mid-tier items driving the next 20% of revenue.
+Tier C: Low-performing items making up the final 10% of revenue.
+
+XYZ Analysis (Stock Velocity): Categorizes products by how quickly they move out of the warehouse based on an average turnover benchmark of 3.829.
+
+Class X (Fast): Highly efficient items with an inventory turnover ratio of 4 or higher.
+Class Y (Medium): Steady items with a turnover ratio between 1.5 and 4.
+Class Z (Stagnant): Dead stock with a turnover ratio below 1.5.
+
+The ultimate operational goal of this project is to isolate "CZ" products—items that contribute the least to annual revenue (C) and move the slowest through the warehouse (Z). Isolating this segment gives management a direct action list to prune underperforming products, slash storage overhead, and reclaim tied-up capital.
+
+## Preview
+[Dashboard Sreenshot] ( )
