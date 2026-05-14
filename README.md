@@ -43,3 +43,14 @@ The ultimate operational goal of this project is to isolate "CZ" products—item
 
 ## Preview
 [Dashboard Sreenshot] (https://github.com/akandug/inventory-decision-engine/blob/main/sku%20dashboard.PNG )
+
+## Insights and Recommendations
+I performed a SKU Rationalization study that identified that furniture is the company’s bank, it should be optimized and shouldn’t be slashed. We liquidate CZs in all the products categories. We can release 64.tmillion Naira tied up and really invest in our best selling products.
+
+## Summary Action Plan
+Category	Primary Focus	Strategy
+Furniture	    Optimization	                Protect AX/AY; Liquidate bulky CZs to free space.
+Kitchenware	  Rationalization	             Drastically reduce SKU count; it’s currently "clutter.
+Home Decor	   Liquidation	                 Target the 149 CZ items for immediate clearance sales.
+Gardening	    Efficiency	                  Keep the high-movers (BX/CX) but trim the dead weight.
+
